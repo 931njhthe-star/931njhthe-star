@@ -63,7 +63,7 @@ and AI orchestration**.
 
 # 💼 Professional Experience
 
-## Enclony — Advanced Technology Research Institute (https://enclony.com/)
+## [Enclony](https://enclony.com/) — Advanced Technology Research Institute
 ### Research Engineer, GPU Performance Optimization
 **Mar 2021 – Oct 2025**
 
@@ -75,7 +75,7 @@ and AI orchestration**.
 
 ---
 
-## Sejong University — Intelligent Vehicle Recognition Systems Laboratory (https://sites.google.com/view/ivpg?pli=1&authuser=0)
+## [Sejong University — Intelligent Vehicle Recognition Systems Laboratory](https://sites.google.com/view/ivpg)
 ### Researcher, Deep Learning & Computer Vision
 **Nov 2019 – Oct 2020**
 
@@ -86,7 +86,7 @@ and AI orchestration**.
 
 ---
 
-## INA Oriental Motor — Technology Research Center(https://www.inaom.co.kr/main/main.do)
+## [INA Oriental Motor](https://www.inaom.co.kr/main/main.do) — Technology Research Center
 ### Software Engineer, Robotics & Vision Systems
 **Jan 2018 – Oct 2019**
 
@@ -97,37 +97,16 @@ and AI orchestration**.
 
 ---
 
-# 🤖 AI Orchestration
+# 🤖 Current Training
 
-Currently attending the **SK Networks Family × Encore AI Campus**
-full-time AI Orchestration Program.
+### SK Networks Family × Encore AI Campus
+**Full-time AI Orchestration Program | 2026 – Present**
 
-### Current Topics
-
-- LLM APIs
-- Prompt Design
-- Structured Output
-- RAG
-- AI Agent Workflows
-- MCP
-- FastAPI-based AI Applications
-- Authentication / Database / API Integration
-- Caching / Testing / Deployment
-
-My current focus is connecting **GPU-level performance engineering**
-with practical **AI inference and application requirements**.
+- LLM APIs, RAG, structured output, AI agents, MCP, and LangGraph workflows
+- FastAPI-based AI applications with databases, APIs, caching, testing, and deployment
+- Applying AI orchestration concepts to GPU inference and performance engineering
 
 ---
-
-# 🏆 Awards
-
-- **Excellence Award — 2nd ICT CoC Hackathon (2020)**  
-  Object detection for unauthorized buildings and rooftop gardens using aerial imagery.
-
-- **4th Place — Sejong University Software Competition (2016)**  
-  C programming and algorithms.
-
-- **Bronze Award — Sejong University Creative Design Competition (2017)**
 
 # 🏆 Awards
 
@@ -147,22 +126,24 @@ with practical **AI inference and application requirements**.
 
 # 🎓 Education
 
-Sejong University — Seoul, South Korea (Ranked **251–300 globally in THE World University Rankings 2026**)
-.S. in Electronic Engineering — Engineering Accreditation
+### Sejong University — Seoul, South Korea
+**B.S. in Electronic Engineering | Engineering Accreditation**
+
 - GPA: **3.38 / 4.5**
+- THE World University Rankings 2026: **251–300 globally**
 
 ---
 
 # 📜 Certifications
 
-Korean National Technical Qualifications
+### Korean National Technical Qualifications
 
-- Engineer Information and Communication
-- Engineer Radio Telecommunication Equipment
-- Industrial Engineer Electronics
-- Industrial Engineer Computer Control
+- **Engineer Information and Communication** — Engineer Level
+- **Engineer Radio Telecommunication Equipment** — Engineer Level
+- **Industrial Engineer Electronics** — Industrial Engineer Level
+- **Industrial Engineer Computer Control** — Industrial Engineer Level
 
-South Korea
+> In South Korea's National Technical Qualification system, the Engineer level is above the Industrial Engineer level.
 
 ---
 
