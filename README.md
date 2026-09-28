@@ -63,7 +63,7 @@ and AI orchestration**.
 
 # 💼 Professional Experience
 
-## Enclony — Advanced Technology Research Institute
+## Enclony — Advanced Technology Research Institute (https://enclony.com/)
 ### Research Engineer, GPU Performance Optimization
 **Mar 2021 – Oct 2025**
 
@@ -75,7 +75,7 @@ and AI orchestration**.
 
 ---
 
-## Sejong University — Intelligent Vehicle Recognition Systems Laboratory
+## Sejong University — Intelligent Vehicle Recognition Systems Laboratory (https://sites.google.com/view/ivpg?pli=1&authuser=0)
 ### Researcher, Deep Learning & Computer Vision
 **Nov 2019 – Oct 2020**
 
@@ -86,7 +86,7 @@ and AI orchestration**.
 
 ---
 
-## INA Oriental Motor — Technology Research Center
+## INA Oriental Motor — Technology Research Center(https://www.inaom.co.kr/main/main.do)
 ### Software Engineer, Robotics & Vision Systems
 **Jan 2018 – Oct 2019**
 
@@ -149,7 +149,6 @@ with practical **AI inference and application requirements**.
 
 Sejong University — Seoul, South Korea (Ranked **251–300 globally in THE World University Rankings 2026**)
 .S. in Electronic Engineering — Engineering Accreditation
-
 - GPA: **3.38 / 4.5**
 
 ---
