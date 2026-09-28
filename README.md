@@ -1,4 +1,4 @@
-# Hi, I'm Jihoon Noh 👋
+# Hi, I'm Jihun Rho 👋
 
 ### CUDA / GPU & Computer Vision Developer
 
