@@ -4,6 +4,7 @@
 
 📍 Seoul, South Korea  
 🌏 Open to Remote Opportunities
+📧 hunjirho@gmail.com
 
 GPU performance engineer with **4 years and 8 months of hands-on CUDA/C++ experience**
 developing and optimizing image-processing workloads for automated inspection systems.
