@@ -1,138 +1,197 @@
-# Hi, I'm Jihun Rho 👋
+# Jihun Rho
 
-### CUDA / GPU & Computer Vision Developer
+### CUDA & GPU Performance Engineer | Computer Vision
 
-Software engineer with **7+ years of experience**, including **4+ years of hands-on CUDA/C++ development** for production computer vision and automated inspection systems.
+📍 Seoul, South Korea  
+🌏 Open to Remote Opportunities
 
-My primary focus is **GPU-accelerated image processing, CUDA optimization, and Computer Vision**.
+GPU performance engineer with **4 years and 8 months of hands-on experience**
+developing and optimizing CUDA/C++ image-processing workloads for automated
+inspection systems.
 
-Currently, I am expanding my experience into **LLM inference and AI orchestration**, combining GPU-level optimization experience with modern AI systems.
+Experienced in **CUDA kernel optimization, GPU memory and execution tuning,
+NVIDIA Nsight profiling, OpenCV machine vision, and production C++ systems**.
+
+My background also includes **deep learning-based computer vision, object detection,
+robotics integration, and Linux-based engineering**.
+
+Currently expanding this systems background into **LLM inference optimization
+and AI orchestration**.
 
 ---
 
-## 💻 Core Expertise
+## 🔧 Core Expertise
 
-### ⚡ CUDA & GPU Optimization
-- CUDA / C++ GPU programming
-- GPU-accelerated image processing
-- CUDA kernel development and optimization
-- GPU memory management
-- Thread / block configuration
-- CPU-GPU synchronization and pipeline optimization
-- Performance bottleneck analysis
+### CUDA & GPU Performance
+- CUDA / C++
+- CUDA Kernel Development & Optimization
+- GPU Memory Management
+- Block / Thread Configuration
+- Parallel Image Processing
+- CPU-GPU Synchronization
+- Performance Bottleneck Analysis
+- CPU Multithreading
 
-### 🔬 GPU Profiling
+### GPU Profiling
 - NVIDIA Nsight Systems
 - NVIDIA Nsight Compute
-- Kernel profiling
-- Memory & execution analysis
-- Performance benchmarking
+- End-to-End Latency Analysis
+- Kernel Performance Analysis
+- Memory / Compute Bottleneck Analysis
 
-### 👁️ Computer Vision
+### Computer Vision
 - OpenCV
-- Image processing
-- Automated visual inspection systems
+- 2D / 3D Vision
+- Automated Visual Inspection
 - Object Detection
 - YOLOv3 / YOLOv4
-- MobileNet + SSD
-- Dataset preparation, training, evaluation, and model improvement
+- MobileNet-SSD
+- Camera Calibration
+- Image Data Pipelines
+
+### Software & Systems
+- C++ / C / Python
+- Linux / Ubuntu / WSL2
+- REST API
+- TCP/IP
+- Modbus
+- Digital I/O
+- Git / GitHub
+- Docker
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Professional Experience
 
-**Languages**
+## Enclony — Advanced Technology Research Institute
+### Research Engineer, GPU Performance Optimization
+**Mar 2021 – Oct 2025**
 
-`C++` `CUDA` `Python`
-
-**GPU / Computer Vision**
-
-`CUDA` `OpenCV` `PyTorch` `Nsight Systems` `Nsight Compute`
-
-**AI / LLM**
-
-`LLM Inference` `RAG` `LangChain` `LangGraph` `AI Agents`
-
-**Backend / Systems**
-
-`FastAPI` `REST API` `TCP/IP` `Modbus`
-
-**Environment & Tools**
-
-`Linux` `WSL2` `Docker` `Git` `GitHub`
+- Parallelized and optimized image-processing pipelines for automated inspection equipment using **CUDA and CPU multithreading**.
+- Designed and refined CUDA execution structures around **GPU memory usage, block/thread configuration, and kernel organization**.
+- Used **NVIDIA Nsight Systems** to analyze CPU-GPU execution flow, synchronization, end-to-end latency, and pipeline bottlenecks.
+- Used **NVIDIA Nsight Compute** to investigate kernel-level compute, memory, and launch-configuration bottlenecks.
+- Developed and maintained performance-sensitive **C++ / OpenCV machine-vision software** for production systems.
 
 ---
 
-## 🚀 Current Work
+## Sejong University — Intelligent Vehicle Recognition Systems Laboratory
+### Researcher, Deep Learning & Computer Vision
+**Nov 2019 – Oct 2020**
 
-### CUDA Image Processing & Optimization
-
-Building a portfolio of CUDA-based image processing implementations with a focus on:
-
-- CPU vs. GPU performance comparison
-- CUDA kernel optimization
-- Memory access optimization
-- Parallel image processing
-- Nsight-based bottleneck analysis
-- Reproducible performance benchmarking
-
-### LLM Inference Optimization
-
-Exploring GPU performance characteristics of modern LLM inference workloads.
-
-Current experiments include:
-
-- NVIDIA RTX 4070 SUPER 12 GB
-- CUDA / PyTorch / Triton
-- Latency & throughput benchmarking
-- Prefill performance analysis
-- VRAM usage measurement
-- Batch-size scaling
-- GPU profiling
-
-### AI Orchestration
-
-Currently studying AI application development and orchestration through the  
-**SK Networks Family × Encore AI Campus AI Orchestration Program**.
-
-Working with:
-
-`AI Agents` · `Tool Calling` · `RAG` · `LangGraph` · `LLM Applications`
+- Developed object-detection training and evaluation workflows using **YOLOv3/v4, MobileNet-SSD, LeNet, and SVM**.
+- Processed and curated **tens to hundreds of thousands of images** extracted from video.
+- Worked with JSON/text annotations, model evaluation, error analysis, and detection improvement.
+- Worked on **camera calibration and 3D image projection**.
 
 ---
 
-## 📌 Featured Projects
+## INA Oriental Motor — Technology Research Center
+### Software Engineer, Robotics & Vision Systems
+**Jan 2018 – Oct 2019**
 
-### ⚡ CUDA Image Processing & Optimization
-
-CUDA/C++ implementations of common image processing algorithms with CPU/GPU benchmarking and NVIDIA Nsight profiling.
-
-**Focus:** CUDA · C++ · OpenCV · GPU Optimization · Nsight
-
----
-
-### 🚀 LLM Inference Benchmark
-
-Reproducible GPU inference benchmarking and profiling on an NVIDIA RTX 4070 SUPER.
-
-**Measured:** Latency · Prefill · Throughput · VRAM · Batch Scaling
-
-**Stack:** CUDA · PyTorch · Triton · NVIDIA Profiling Tools
+- Integrated **autonomous mobile robots, six-axis collaborative robots, and 2D/3D vision systems**.
+- Developed integration software using **Python, C, REST APIs, TCP/IP, Modbus, and Digital I/O**.
+- Implemented monitoring and control workflows for robot motion and grippers.
+- Worked with deep-learning-based **3D object recognition and random bin picking** demonstrations.
 
 ---
 
-### 🎬 SubSync
+# 🚀 Selected Projects
 
-AI-powered English learning Chrome extension with dual subtitles, dictionary integration, and an AI tutor.
+## Qwen3.5-4B GPU Inference Benchmarking
+**Independent Project | Sep 2026 – Present**
 
-**Stack:** FastAPI · Supabase · Redis · Gemini API · Chrome Extension
+GPU inference benchmarking and profiling project running on:
+
+**NVIDIA RTX 4070 SUPER 12 GB / WSL2 / Ubuntu / CUDA / PyTorch / Triton**
+
+### Benchmark
+
+- **160 benchmark runs**
+- Input / output length variations
+- Batch-size variations
+- KV-cache comparison
+- Warm-up runs
+- Raw and summary CSV output
+
+### Metrics
+
+- End-to-End Latency
+- Prefill Time
+- Output Throughput
+- Peak VRAM
+- Batch Scaling
+
+### Result
+
+| Batch Size | Aggregate Throughput |
+|---:|---:|
+| 1 | 24.58 tok/s |
+| 4 | 98.56 tok/s |
+
+Current optimization work focuses on:
+
+`TTFT` · `TPOT` · `Nsight Systems` · `Nsight Compute` · `Kernel A/B Validation`
 
 ---
 
-## 🔭 Current Focus
+# 🤖 AI Orchestration
 
-I am currently focusing on the intersection of:
+Currently attending the **SK Networks Family × Encore AI Campus**
+full-time AI Orchestration Program.
 
-**CUDA Optimization × Computer Vision × AI Inference**
+### Current Topics
 
-with the goal of building high-performance GPU software for real-world vision and AI systems.
+- LLM APIs
+- Prompt Design
+- Structured Output
+- RAG
+- AI Agent Workflows
+- MCP
+- FastAPI-based AI Applications
+- Authentication / Database / API Integration
+- Caching / Testing / Deployment
+
+My current focus is connecting **GPU-level performance engineering**
+with practical **AI inference and application requirements**.
+
+---
+
+# 🏆 Awards
+
+- **Excellence Award — 2nd ICT CoC Hackathon (2020)**  
+  Object detection for unauthorized buildings and rooftop gardens using aerial imagery.
+
+- **4th Place — Sejong University Software Competition (2016)**  
+  C programming and algorithms.
+
+- **Bronze Award — Sejong University Creative Design Competition (2017)**
+
+---
+
+# 🎓 Education
+
+### Sejong University
+**B.S. in Electronic Engineering — Engineering Accreditation**
+
+- GPA: **3.38 / 4.5**
+- Capstone project received a **Bronze Award** in the Engineering Accreditation Creative Design Competition.
+
+---
+
+# 📜 Certifications
+
+- Engineer Information and Communication
+- Engineer Radio Telecommunication Equipment
+- Industrial Engineer Electronics
+- Industrial Engineer Computer Control
+
+---
+
+# 🎯 Current Focus
+
+**CUDA Optimization × Computer Vision × GPU Inference**
+
+I am currently building reproducible CUDA and GPU performance projects
+focused on **image processing, profiling, benchmarking, and AI inference optimization**.
