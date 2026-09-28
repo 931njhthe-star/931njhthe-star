@@ -97,45 +97,6 @@ and AI orchestration**.
 
 ---
 
-# 🚀 Selected Projects
-
-## Qwen3.5-4B GPU Inference Benchmarking
-**Independent Project | Sep 2026 – Present**
-
-GPU inference benchmarking and profiling project running on:
-
-**NVIDIA RTX 4070 SUPER 12 GB / WSL2 / Ubuntu / CUDA / PyTorch / Triton**
-
-### Benchmark
-
-- **160 benchmark runs**
-- Input / output length variations
-- Batch-size variations
-- KV-cache comparison
-- Warm-up runs
-- Raw and summary CSV output
-
-### Metrics
-
-- End-to-End Latency
-- Prefill Time
-- Output Throughput
-- Peak VRAM
-- Batch Scaling
-
-### Result
-
-| Batch Size | Aggregate Throughput |
-|---:|---:|
-| 1 | 24.58 tok/s |
-| 4 | 98.56 tok/s |
-
-Current optimization work focuses on:
-
-`TTFT` · `TPOT` · `Nsight Systems` · `Nsight Compute` · `Kernel A/B Validation`
-
----
-
 # 🤖 AI Orchestration
 
 Currently attending the **SK Networks Family × Encore AI Campus**
