@@ -1,6 +1,6 @@
 # Jihun Rho
 
-### CUDA & GPU Performance Engineer | Computer Vision
+### CUDA & GPU Performance Engineer | Computer Vision Engineer
 
 📍 Seoul, South Korea  
 🌏 Open to Remote Opportunities
@@ -143,8 +143,7 @@ and AI orchestration**.
 - **Industrial Engineer Electronics** — Industrial Engineer Level
 - **Industrial Engineer Computer Control** — Industrial Engineer Level
 
-> In South Korea's National Technical Qualification system,
-> **Engineer** is a higher certification level than **Industrial Engineer**.
+> South Korean qualification levels: **Craftsman < Industrial Engineer < Engineer < Professional Engineer**
 
 ---
 
@@ -152,5 +151,5 @@ and AI orchestration**.
 
 **CUDA Optimization × Computer Vision × GPU Inference**
 
-I am currently building reproducible CUDA and GPU performance projects
-focused on **image processing, profiling, benchmarking, and AI inference optimization**.
+My current focus is on **image processing, GPU profiling, performance benchmarking,
+and AI inference optimization**.
