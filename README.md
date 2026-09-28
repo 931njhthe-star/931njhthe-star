@@ -14,8 +14,8 @@ NVIDIA Nsight profiling, OpenCV machine vision, and production C++ systems**.
 My broader engineering background includes **deep learning-based computer vision,
 object detection, robotics integration, and Linux-based systems**.
 
-Currently expanding this systems background into **LLM inference optimization
-and AI orchestration**.
+Currently expanding this systems background into 
+**CUDA-accelerated image processing, computer vision, and AI orchestration.**
 
 ---
 
