@@ -129,24 +129,41 @@ with practical **AI inference and application requirements**.
 
 - **Bronze Award — Sejong University Creative Design Competition (2017)**
 
+# 🏆 Awards
+
+### Excellence Award — 2nd ICT CoC Hackathon (2020) | South Korea
+- Organized by the **National IT Industry Promotion Agency (NIPA)**
+  and the **Seoul Metropolitan Government**
+- Object detection for unauthorized buildings and rooftop gardens
+  using aerial imagery.
+
+### 4th Place — Sejong University Software Competition (2016) | Sejong University, South Korea
+- University-level competition in **C programming and algorithms**
+
+### Bronze Award — Sejong University Creative Design Competition (2017) | Sejong University, South Korea
+- University-level creative design competition
+
 ---
 
 # 🎓 Education
 
-### Sejong University
-**B.S. in Electronic Engineering — Engineering Accreditation**
+Sejong University — Seoul, South Korea (Ranked **251–300 globally in THE World University Rankings 2026**)
+.S. in Electronic Engineering — Engineering Accreditation
 
 - GPA: **3.38 / 4.5**
-- Capstone project received a **Bronze Award** in the Engineering Accreditation Creative Design Competition.
 
 ---
 
 # 📜 Certifications
 
+Korean National Technical Qualifications
+
 - Engineer Information and Communication
 - Engineer Radio Telecommunication Equipment
 - Industrial Engineer Electronics
 - Industrial Engineer Computer Control
+
+South Korea
 
 ---
 
