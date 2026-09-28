@@ -5,15 +5,14 @@
 📍 Seoul, South Korea  
 🌏 Open to Remote Opportunities
 
-GPU performance engineer with **4 years and 8 months of hands-on experience**
-developing and optimizing CUDA/C++ image-processing workloads for automated
-inspection systems.
+GPU performance engineer with **4 years and 8 months of hands-on CUDA/C++ experience**
+developing and optimizing image-processing workloads for automated inspection systems.
 
 Experienced in **CUDA kernel optimization, GPU memory and execution tuning,
 NVIDIA Nsight profiling, OpenCV machine vision, and production C++ systems**.
 
-My background also includes **deep learning-based computer vision, object detection,
-robotics integration, and Linux-based engineering**.
+My broader engineering background includes **deep learning-based computer vision,
+object detection, robotics integration, and Linux-based systems**.
 
 Currently expanding this systems background into **LLM inference optimization
 and AI orchestration**.
@@ -108,6 +107,16 @@ and AI orchestration**.
 
 ---
 
+# 🎓 Education
+
+### Sejong University — Seoul, South Korea
+**B.S. in Electronic Engineering | Engineering Accreditation**
+
+- GPA: **3.38 / 4.5**
+- THE World University Rankings 2026: **251–300 globally**
+
+---
+
 # 🏆 Awards
 
 ### Excellence Award — 2nd ICT CoC Hackathon (2020) | South Korea
@@ -122,15 +131,6 @@ and AI orchestration**.
 ### Bronze Award — Sejong University Creative Design Competition (2017) | Sejong University, South Korea
 - University-level creative design competition
 
----
-
-# 🎓 Education
-
-### Sejong University — Seoul, South Korea
-**B.S. in Electronic Engineering | Engineering Accreditation**
-
-- GPA: **3.38 / 4.5**
-- THE World University Rankings 2026: **251–300 globally**
 
 ---
 
@@ -143,7 +143,8 @@ and AI orchestration**.
 - **Industrial Engineer Electronics** — Industrial Engineer Level
 - **Industrial Engineer Computer Control** — Industrial Engineer Level
 
-> In South Korea's National Technical Qualification system, the Engineer level is above the Industrial Engineer level.
+> In South Korea's National Technical Qualification system,
+> **Engineer** is a higher certification level than **Industrial Engineer**.
 
 ---
 
