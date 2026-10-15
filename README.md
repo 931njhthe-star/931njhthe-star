@@ -148,9 +148,11 @@ Currently expanding this systems background into
 
 ---
 
-# Current Focus
-
+### Current Focus
 **CUDA Optimization × Computer Vision × GPU Inference**
 
-My current focus is on **image processing, GPU profiling, performance benchmarking,
-and AI inference optimization**.
+My current focus is on image processing, GPU profiling, performance benchmarking, and AI inference optimization.
+
+I am also expanding my expertise in **AI orchestration, LLM-based multi-agent systems, and LangGraph workflows**, focusing on parallel execution, intelligent task coordination, and workflow automation.
+
+My goal is to integrate **GPU-accelerated computer vision with AI agent orchestration** to build efficient, scalable, and intelligent AI systems.
