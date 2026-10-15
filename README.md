@@ -161,7 +161,4 @@ Developed computer vision training and evaluation workflows, including object de
 **CUDA Optimization × Computer Vision × GPU Inference**
 
 My current focus is on image processing, GPU profiling, performance benchmarking, and AI inference optimization.
-
-I am also expanding my expertise in **AI orchestration, LLM-based multi-agent systems, and LangGraph workflows**, focusing on parallel execution, intelligent task coordination, and workflow automation.
-
 My primary focus is on **CUDA optimization, high-performance computer vision, and GPU inference.** I am also expanding into AI agent applications and full-stack AI development.
