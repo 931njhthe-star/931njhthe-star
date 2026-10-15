@@ -75,7 +75,7 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 - 2D / 3D Vision
 - Automated Visual Inspection
 - Object Detection
-- YOLOv3 / YOLOv4
+- YOLOv3 / YOLOv4 / YOLOv11n
 - MobileNet-SSD
 - Camera Calibration
 - Image Data Pipelines
