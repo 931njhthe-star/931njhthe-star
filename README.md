@@ -64,14 +64,21 @@ Currently expanding this systems background into
 # Professional Experience
 
 ## [Enclony](https://enclony.com/) — Advanced Technology Research Institute
-### Research Engineer, GPU Performance Optimization
+
+### Research Engineer, CUDA & GPU Performance Optimization
+
 **Mar 2021 – Oct 2025**
 
-- Parallelized and optimized image-processing pipelines for automated inspection equipment using **CUDA and CPU multithreading**.
-- Designed and refined CUDA execution structures around **GPU memory usage, block/thread configuration, and kernel organization**.
-- Used **NVIDIA Nsight Systems** to analyze CPU-GPU execution flow, synchronization, end-to-end latency, and pipeline bottlenecks.
-- Used **NVIDIA Nsight Compute** to investigate kernel-level compute, memory, and launch-configuration bottlenecks.
-- Developed and maintained performance-sensitive **C++ / OpenCV machine-vision software** for production systems.
+- Developed and optimized high-performance **CUDA/C++ machine-vision software** for industrial pharmaceutical inspection systems.
+- **Heterogeneous CPU-GPU Parallel Computing:** Designed and optimized image-processing pipelines combining **CPU multithreading and CUDA GPU parallel computing**, enabling concurrent CPU-GPU execution and efficient workload distribution.
+- **Gradient & Template Matching Optimization:** Optimized **gradient-based image analysis and rotation/translation-invariant template matching** for tablet engraving, imprint verification, and visual defect inspection.
+- **CUDA Kernel & GPU Memory Optimization:** Improved computational efficiency through **CUDA kernel optimization, GPU memory management, block/thread configuration tuning, and parallel execution optimization**.
+- **GPU Performance Profiling:** Utilized **NVIDIA Nsight Systems and Nsight Compute** to analyze kernel execution, GPU memory bottlenecks, CPU-GPU synchronization, and end-to-end pipeline performance.
+- **High-Throughput Industrial Inspection:** Contributed to the development and optimization of machine-vision software for pharmaceutical inspection equipment supporting **up to approximately 210,000 tablets per hour**, consistent with publicly available product specifications.
+
+**Core Technologies:** C++, CUDA, OpenCV, CPU Multithreading, NVIDIA Nsight Systems, NVIDIA Nsight Compute.
+
+Add measurable optimization resultsClarify my specific technical contributions
 
 ---
 
