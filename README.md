@@ -164,4 +164,4 @@ My current focus is on image processing, GPU profiling, performance benchmarking
 
 I am also expanding my expertise in **AI orchestration, LLM-based multi-agent systems, and LangGraph workflows**, focusing on parallel execution, intelligent task coordination, and workflow automation.
 
-My goal is to integrate **GPU-accelerated computer vision with AI agent orchestration** to build efficient, scalable, and intelligent AI systems.
+My primary focus is on **CUDA optimization, high-performance computer vision, and GPU inference.** I am also expanding into AI agent applications and full-stack AI development.
