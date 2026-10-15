@@ -42,7 +42,7 @@ Developed and optimized image-processing algorithms using **CUDA/C++, CPU multit
 CUDA/C++, Kernel Optimization, GPU Memory Management, CPU-GPU Parallelism, Multithreading, Synchronization, Performance Tuning
 
 ### GPU Profiling
-NVIDIA Nsight Systems/Compute, Kernel Analysis, Memory Bottlenecks, End-to-End Latency Analysis
+NVIDIA Nsight Systems and Nsight Compute, Kernel Analysis, Memory Bottlenecks, End-to-End Latency Analysis
 
 ### Computer Vision
 OpenCV, 2D/3D Vision, Object Detection, YOLOv3/v4, YOLO11n, MobileNet-SSD, Camera Calibration, Image Processing Pipelines
@@ -121,7 +121,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 **B.S. in Electronic Engineering | Engineering Accreditation**
 
 - GPA: **3.38 / 4.5**
-- THE World University Rankings 2027: **281st globally**
+- THE World University Rankings 2027: **Joint 281st globally**
 
 ---
 
