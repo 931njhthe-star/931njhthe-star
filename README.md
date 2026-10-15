@@ -20,7 +20,7 @@ Currently expanding this systems background into
 
 ---
 
-## 🔧 Core Expertise
+## Core Expertise
 
 ### CUDA & GPU Performance
 - CUDA / C++
@@ -61,7 +61,7 @@ Currently expanding this systems background into
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## [Enclony](https://enclony.com/) — Advanced Technology Research Institute
 ### Research Engineer, GPU Performance Optimization
@@ -97,7 +97,7 @@ Currently expanding this systems background into
 
 ---
 
-# 🤖 Current Training
+# Current Training
 
 ### SK Networks Family × Encore AI Campus
 **Full-time AI Orchestration Program | 2026 – Present**
@@ -108,7 +108,7 @@ Currently expanding this systems background into
 
 ---
 
-# 🎓 Education
+# Education
 
 ### Sejong University — Seoul, South Korea
 **B.S. in Electronic Engineering | Engineering Accreditation**
@@ -118,7 +118,7 @@ Currently expanding this systems background into
 
 ---
 
-# 🏆 Awards
+# Awards
 
 ### Excellence Award — 2nd ICT CoC Hackathon (2020) | South Korea
 - Organized by the **National IT Industry Promotion Agency (NIPA)**
@@ -135,7 +135,7 @@ Currently expanding this systems background into
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 ### Korean National Technical Qualifications
 
@@ -148,7 +148,7 @@ Currently expanding this systems background into
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 **CUDA Optimization × Computer Vision × GPU Inference**
 
