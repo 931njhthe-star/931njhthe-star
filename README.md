@@ -44,9 +44,9 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 |---|---:|
 | Advanced Gradient | 123× |
 | Rotation / Translation Template Matching | 96.8× |
-| Hybrid CPU-GPU Processing | 16.9× |
+| Hybrid CPU-GPU Processing | 45.9× |
 
-*Gradient and template matching are modeled against single-threaded CPU execution; hybrid processing is modeled against an 8-thread CPU implementation. All estimates require experimental validation.*
+*Gradient and template matching are modeled against single-threaded CPU execution; *Hybrid processing is modeled against a single-threaded CPU implementation. All estimates require experimental validation.*
 
 ---
 
