@@ -96,16 +96,16 @@ Developed computer vision training and evaluation workflows, including object de
 
 ---
 
-## Current Training
+# AI Training & Projects
 
-### SK Networks Family × Encore AI Campus
+## SK Networks Family × Encore AI Campus
 **Full-time AI Orchestration Program | 2026 – Present**
 
 - LLM APIs, RAG, structured output, AI agents, MCP, and LangGraph workflows.
 - FastAPI-based AI applications with databases, APIs, caching, testing, and deployment.
 - Applying AI orchestration concepts to GPU inference and performance engineering.
 
-### Featured Training Projects
+## Featured Training Projects
 
 - 🎬 **[SubSync — AI-Powered YouTube English Tutor](https://github.com/931njhthe-star/subsync-ai-tutor)**  
   Chrome extension integrating bilingual subtitles, vocabulary learning, and a context-aware LLM tutor for interactive English learning.
