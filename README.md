@@ -157,7 +157,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 
 ---
 
-### Current Focus
+# Current Focus
 
 **CUDA Optimization × Computer Vision × GPU Inference**
 My primary focus is on **CUDA optimization, high-performance computer vision, and GPU inference**.
