@@ -39,8 +39,6 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 
 ### Illustrative Performance Modeling
 
-*Hypothetical estimates — not measured benchmark results.*
-
 | Algorithm | Estimated Speedup vs. CPU |
 |---|---:|
 | Advanced Gradient | 123× |
