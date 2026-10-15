@@ -25,10 +25,10 @@ Currently expanding expertise into **GPU inference optimization, LLM application
 Developed and optimized image-processing algorithms using **CUDA/C++, CPU multithreading, and GPU parallel computing**.
 
 - **Fundamental Image Processing:** Gaussian/Median Filtering, Convolution, Thresholding, Morphology (Erosion/Dilation), Edge Detection, Image Resizing, and Geometric Transformations.
-- **Advanced Gradient:** CUDA-accelerated gradient computation, edge-feature extraction, and kernel optimization.
+- **Gradient-Based Image Processing:** CUDA-accelerated gradient computation, edge-feature extraction, and kernel optimization.
 - **Template Matching:** GPU-parallelized rotation/translation-invariant matching and similarity computation.
-- **Heterogeneous CPU-GPU Parallelism:** Multi-core CPU multithreading, concurrent CUDA GPU execution, asynchronous processing, CPU-GPU workload balancing, and synchronization optimization.
-- **GPU Profiling:** Nsight Systems/Compute for kernel performance, memory bottlenecks, and end-to-end latency analysis.
+- **Heterogeneous CPU-GPU Parallelism:** Multi-core CPU parallelism with multithreading, concurrent CUDA GPU execution, asynchronous processing, CPU-GPU workload balancing, and synchronization optimization.
+- **GPU Profiling:** NVIDIA Nsight Systems and Nsight Compute for kernel performance, memory bottlenecks, and end-to-end latency analysis.
 
 ### Personal Development Environment
 
@@ -111,7 +111,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
   Chrome extension integrating bilingual subtitles, vocabulary learning, and a context-aware LLM tutor for interactive English learning.
 
 - 🎯 **[CareerLens — AI-Powered Resume & Job Matching Platform](https://github.com/931njhthe-star/CareerLens-fullstack)**  
-**My Contributions**: AI analysis architecture, 12-way parallel LangGraph evaluation workflow, PostgreSQL database design, backend integration, and cloud deployment.
+**My Contributions**: AI analysis architecture, LangGraph workflow with 12 parallel evaluation branches, PostgreSQL database design, backend integration, and cloud deployment.
 
 ---
 
@@ -134,7 +134,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 
 ### Bronze Award — Sejong University Creative Design Competition (2017) | Sejong University, South Korea
 - Awarded Bronze Prize in an **intra-university creative design competition**.
-- Developed a **software-based digital ruler using an optical sensor** for distance measurement.
+- Developed a **digital ruler application using an optical sensor** for distance measurement.
 - **Tech Stack:** Optical Sensors, Sensor-Based Measurement, Software Development.
 
 ### 4th Place — Sejong University Software Competition (2016) | Sejong University, South Korea
