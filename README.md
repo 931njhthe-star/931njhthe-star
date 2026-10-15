@@ -27,7 +27,7 @@ Developed and optimized image-processing algorithms using **CUDA/C++, CPU multit
 - **Fundamental Image Processing:** Gaussian/Median Filtering, Convolution, Thresholding, Morphology (Erosion/Dilation), Edge Detection, Image Resizing, and Geometric Transformations.
 - **Advanced Gradient:** CUDA-accelerated gradient computation, edge-feature extraction, and kernel optimization.
 - **Template Matching:** GPU-parallelized rotation/translation-invariant matching and similarity computation.
-- **CPU-GPU Hybrid Parallelism:** Concurrent CPU-GPU execution, asynchronous processing, workload distribution, and synchronization optimization.
+- **Heterogeneous CPU-GPU Parallelism:** Multi-core CPU multithreading, concurrent CUDA GPU execution, asynchronous processing, CPU-GPU workload balancing, and synchronization optimization.
 - **GPU Profiling:** Nsight Systems/Compute for kernel performance, memory bottlenecks, and end-to-end latency analysis.
 
 ### Personal Development Environment
