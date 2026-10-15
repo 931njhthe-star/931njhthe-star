@@ -33,20 +33,7 @@ Developed and optimized image-processing algorithms using **CUDA/C++, CPU multit
 *Personal hardware, separate from company equipment.*
 
 - **CPU / GPU:** Intel Core i7-13700K / NVIDIA RTX 4070 SUPER (12GB)
-- **Image Resolution:** 640 × 480
 - **Technologies:** C++, CUDA, OpenCV, CPU Multithreading
-
-### Illustrative Performance Modeling
-
-*Hypothetical estimates based on single-threaded CPU comparisons, not measured results.*
-
-| Algorithm | Estimated Speedup |
-|---|---:|
-| Advanced Gradient | 75× |
-| Rotation / Translation Template Matching | 62.8× |
-| Hybrid CPU-GPU Processing | 32.9× |
-
-*All estimates require experimental validation.*
 
 ---
 
