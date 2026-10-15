@@ -6,89 +6,63 @@
 🌏 Open to Remote Opportunities
 📧 hunjirho@gmail.com
 
-GPU performance engineer with **4 years and 8 months of hands-on CUDA/C++ experience**
-developing and optimizing image-processing workloads for automated inspection systems.
+### Professional Summary
 
-Experienced in **CUDA kernel optimization, GPU memory and execution tuning,
-NVIDIA Nsight profiling, OpenCV machine vision, and production C++ systems**.
+GPU performance engineer with **4 years and 8 months of CUDA/C++ experience** in high-performance image processing and industrial machine vision.
 
-My broader engineering background includes **deep learning-based computer vision,
-object detection, robotics integration, and Linux-based systems**.
+Specialized in **CUDA kernel optimization, GPU memory tuning, CPU-GPU parallel computing, and NVIDIA Nsight profiling**, with additional experience in deep learning, computer vision, robotics, and Linux systems.
 
-Currently expanding this systems background into 
-**CUDA-accelerated image processing, computer vision, and AI orchestration.**
+Currently expanding into **GPU inference optimization and AI orchestration**.
+
+---
 
 # Image Processing & GPU Optimization Experience
 
 ### High-Performance Computer Vision & Parallel Image Processing
 
-Developed and optimized high-performance image-processing algorithms using **CUDA/C++, CPU multithreading, and GPU parallel computing**.
+Developed and optimized image-processing algorithms using **CUDA/C++, CPU multithreading, and GPU parallel computing**.
 
-- **Fundamental Image Processing:** Worked with **Gaussian Blur, Median Filtering, Convolution, Thresholding, Morphological Operations (Erosion/Dilation), Edge Detection, Image Resizing, and Geometric Transformations**.
-- **Advanced Gradient:** Optimized CUDA-based gradient computation, edge-feature extraction, GPU memory access, and kernel execution.
-- **Template Matching:** Accelerated rotation- and translation-invariant pattern matching through GPU parallelization and optimized similarity computation.
-- **CPU-GPU Hybrid Parallelism:** Implemented concurrent CPU multithreading and CUDA execution, optimizing workload distribution, asynchronous processing, and synchronization.
-- **GPU Profiling:** Used NVIDIA Nsight Systems and Nsight Compute to analyze kernel performance, memory bottlenecks, and end-to-end pipeline latency.
+- **Fundamental Image Processing:** Gaussian/Median Filtering, Convolution, Thresholding, Morphology (Erosion/Dilation), Edge Detection, Image Resizing, and Geometric Transformations.
+- **Advanced Gradient:** CUDA-accelerated gradient computation, edge-feature extraction, and kernel optimization.
+- **Template Matching:** GPU-parallelized rotation/translation-invariant matching and similarity computation.
+- **CPU-GPU Hybrid Parallelism:** Concurrent CPU-GPU execution, asynchronous processing, workload distribution, and synchronization optimization.
+- **GPU Profiling:** Nsight Systems/Compute for kernel performance, memory bottlenecks, and end-to-end latency analysis.
 
-### Personal Hardware & Development Environment
+### Personal Development Environment
 
-*Personal development and benchmarking environment (not company hardware).*
+*Personal hardware, separate from company equipment.*
 
-- **CPU:** Intel Core i7-13700K
-- **GPU:** NVIDIA GeForce RTX 4070 SUPER (12GB)
+- **CPU / GPU:** Intel Core i7-13700K / NVIDIA RTX 4070 SUPER (12GB)
 - **Image Resolution:** 640 × 480
 - **Technologies:** C++, CUDA, OpenCV, CPU Multithreading
 
 ### Illustrative Performance Modeling
 
-| Algorithm | Estimated Speedup vs. CPU |
+*Hypothetical estimates based on single-threaded CPU comparisons, not measured results.*
+
+| Algorithm | Estimated Speedup |
 |---|---:|
 | Advanced Gradient | 75× |
 | Rotation / Translation Template Matching | 62.8× |
 | Hybrid CPU-GPU Processing | 32.9× |
 
-*Gradient and template matching are modeled against single-threaded CPU execution; *Hybrid processing is modeled against a single-threaded CPU implementation. All estimates require experimental validation.*
+*All estimates require experimental validation.*
 
 ---
 
-## Core Expertise
+# Core Expertise
 
 ### CUDA & GPU Performance
-- CUDA / C++
-- CUDA Kernel Development & Optimization
-- GPU Memory Management
-- Block / Thread Configuration
-- Parallel Image Processing
-- CPU-GPU Synchronization
-- Performance Bottleneck Analysis
-- CPU Multithreading
+CUDA/C++, Kernel Optimization, GPU Memory Management, CPU-GPU Parallelism, Multithreading, Synchronization, Performance Tuning
 
 ### GPU Profiling
-- NVIDIA Nsight Systems
-- NVIDIA Nsight Compute
-- End-to-End Latency Analysis
-- Kernel Performance Analysis
-- Memory / Compute Bottleneck Analysis
+NVIDIA Nsight Systems/Compute, Kernel Analysis, Memory Bottlenecks, End-to-End Latency Analysis
 
 ### Computer Vision
-- OpenCV
-- 2D / 3D Vision
-- Automated Visual Inspection
-- Object Detection
-- YOLOv3 / YOLOv4 / YOLO11n
-- MobileNet-SSD
-- Camera Calibration
-- Image Data Pipelines
+OpenCV, 2D/3D Vision, Object Detection, YOLOv3/v4, YOLO11n, MobileNet-SSD, Camera Calibration, Image Processing Pipelines
 
 ### Software & Systems
-- C++ / C / Python
-- Linux / Ubuntu / WSL2
-- REST API
-- TCP/IP
-- Modbus
-- Digital I/O
-- Git / GitHub
-- Docker
+C++, C, Python, Linux, Ubuntu, WSL2, REST API, TCP/IP, Modbus, Digital I/O, Git, Docker
 
 ---
 
