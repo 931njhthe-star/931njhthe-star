@@ -32,8 +32,8 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 
 ### Hardware & Technical Environment
 
-- **CPU:** Intel Core i7-14700K
-- **GPU:** NVIDIA RTX 4090 (24GB)
+- **CPU:** Intel Core i7-13700K
+- **GPU:** NVIDIA RTX 4070super (12GB)
 - **Image Resolution:** 640 × 480
 - **Technologies:** C++, CUDA, OpenCV, CPU Multithreading
 
