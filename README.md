@@ -42,7 +42,7 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 
 | Algorithm | Estimated Speedup vs. CPU |
 |---|---:|
-| Advanced Gradient | 70× |
+| Advanced Gradient | 123× |
 | Rotation / Translation Template Matching | 96.8× |
 | Hybrid CPU-GPU Processing | 16.9× |
 
