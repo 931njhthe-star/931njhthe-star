@@ -78,7 +78,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 ### Researcher, Deep Learning & Computer Vision
 **Nov 2019 – Oct 2020**
 
-- Developed object-detection training and evaluation workflows using **YOLOv3/v4, MobileNet-SSD, LeNet, and SVM**.
+Developed computer vision training and evaluation workflows, including object detection using **YOLOv3/v4 and MobileNet-SSD**, and image classification using **LeNet and SVM.**
 - Processed and curated **tens to hundreds of thousands of images** extracted from video.
 - Worked with JSON/text annotations, model evaluation, error analysis, and detection improvement.
 - Worked on **camera calibration and 3D image projection**.
@@ -111,7 +111,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
   Chrome extension integrating bilingual subtitles, vocabulary learning, and a context-aware LLM tutor for interactive English learning.
 
 - 🎯 **[CareerLens — AI-Powered Resume & Job Matching Platform](https://github.com/931njhthe-star/CareerLens-fullstack)**  
-  Full-stack AI application featuring **LangGraph-based parallel evaluation, resume-to-job matching, competency scoring, and personalized feedback**, powered by FastAPI and PostgreSQL.
+**My Contributions**: AI analysis architecture, 12-way parallel LangGraph evaluation workflow, PostgreSQL database design, backend integration, and cloud deployment.
 
 ---
 
