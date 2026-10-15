@@ -78,7 +78,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 ### Researcher, Deep Learning & Computer Vision
 **Nov 2019 – Oct 2020**
 
-Developed computer vision training and evaluation workflows, including object detection using **YOLOv3/v4 and MobileNet-SSD**, and image classification using **LeNet and SVM.**
+Developed computer vision training and evaluation workflows, including object detection using **YOLOv3/v4 and MobileNet-SSD**, and image classification using **LeNet and SVM**.
 - Processed and curated **tens to hundreds of thousands of images** extracted from video.
 - Worked with JSON/text annotations, model evaluation, error analysis, and detection improvement.
 - Worked on **camera calibration and 3D image projection**.
@@ -132,14 +132,14 @@ Developed computer vision training and evaluation workflows, including object de
 - Developed an **aerial imagery-based object detection system using YOLOv3** to identify unauthorized buildings and rooftop gardens.
 - **Tech Stack:** C++, YOLOv3, Deep Learning, Computer Vision, Object Detection.
 
-### 4th Place — Sejong University Software Competition (2016) | Sejong University, South Korea
-- Ranked **4th place** in an **intra-university algorithm programming competition**.
-- **Focus:** Algorithm Design, Problem Solving, C Programming.
-
 ### Bronze Award — Sejong University Creative Design Competition (2017) | Sejong University, South Korea
 - Awarded Bronze Prize in an **intra-university creative design competition**.
 - Developed a **software-based digital ruler using an optical sensor** for distance measurement.
 - **Tech Stack:** Optical Sensors, Sensor-Based Measurement, Software Development.
+
+### 4th Place — Sejong University Software Competition (2016) | Sejong University, South Korea
+- Ranked **4th place** in an **intra-university algorithm programming competition**.
+- **Focus:** Algorithm Design, Problem Solving, C Programming.
 
 
 ---
