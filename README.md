@@ -14,7 +14,7 @@ Experienced in **GPU memory and execution tuning, heterogeneous CPU-GPU parallel
 
 Bringing **7 years and 6 months of combined industry and research experience** spanning computer vision, deep learning, robotics, and Linux-based systems.
 
-Currently expanding expertise into **GPU inference optimization and AI orchestration**.
+Currently expanding expertise into **GPU inference optimization, LLM applications, and AI agent systems**.
 
 ---
 
