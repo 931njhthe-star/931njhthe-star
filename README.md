@@ -8,7 +8,9 @@
 
 ### Professional Summary
 
-GPU performance engineer with **4 years and 8 months of CUDA/C++ experience** in high-performance image processing and industrial machine vision.
+GPU performance engineer with **4 years and 8 months of hands-on CUDA/C++ experience**, specializing in **GPU kernel optimization, high-performance image processing, and industrial machine vision**.
+
+Bringing **7 years and 6 months of combined industry and research experience** across GPU computing, computer vision, deep learning, and robotics.
 
 Specialized in **CUDA kernel optimization, GPU memory tuning, CPU-GPU parallel computing, and NVIDIA Nsight profiling**, with additional experience in deep learning, computer vision, robotics, and Linux systems.
 
