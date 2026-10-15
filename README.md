@@ -8,13 +8,13 @@
 
 ### Professional Summary
 
-GPU performance engineer with **4 years and 8 months of hands-on CUDA/C++ experience**, specializing in **GPU kernel optimization, high-performance image processing, and industrial machine vision**.
+GPU Performance Engineer with **4 years and 8 months of hands-on CUDA/C++ experience**, specializing in **GPU kernel optimization, high-performance image processing, and industrial machine vision**.
 
-Bringing **7 years and 6 months of combined industry and research experience** across GPU computing, computer vision, deep learning, and robotics.
+Experienced in **GPU memory and execution tuning, heterogeneous CPU-GPU parallel computing, and NVIDIA Nsight profiling**.
 
-Specialized in **CUDA kernel optimization, GPU memory tuning, CPU-GPU parallel computing, and NVIDIA Nsight profiling**, with additional experience in deep learning, computer vision, robotics, and Linux systems.
+Bringing **7 years and 6 months of combined industry and research experience** spanning computer vision, deep learning, robotics, and Linux-based systems.
 
-Currently expanding into **GPU inference optimization and AI orchestration**.
+Currently expanding expertise into **GPU inference optimization and AI orchestration**.
 
 ---
 
