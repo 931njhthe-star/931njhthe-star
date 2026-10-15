@@ -103,7 +103,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 
 - LLM APIs, RAG, structured output, AI agents, MCP, and LangGraph workflows.
 - FastAPI-based AI applications with databases, APIs, caching, testing, and deployment.
-- Applying AI orchestration concepts to GPU inference and performance engineering.
+- Exploring the integration of AI agent workflows with GPU-accelerated applications.
 
 ## Featured Training Projects
 
@@ -121,7 +121,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 **B.S. in Electronic Engineering | Engineering Accreditation**
 
 - GPA: **3.38 / 4.5**
-- THE World University Rankings 2026: **251–300 globally**
+- THE World University Rankings 2027: **281st globally**
 
 ---
 
