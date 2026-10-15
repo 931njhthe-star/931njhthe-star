@@ -33,7 +33,6 @@ Developed and optimized image-processing algorithms using **CUDA/C++, CPU multit
 ### Personal Development Environment
 
 - **CPU / GPU:** Intel Core i7-13700K / NVIDIA RTX 4070 SUPER (12GB)
-- **Technologies:** C++, CUDA, OpenCV, CPU Multithreading
 
 ---
 
