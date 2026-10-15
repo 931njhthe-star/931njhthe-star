@@ -128,16 +128,18 @@ C++, C, Python, Linux, Ubuntu, WSL2, REST API, TCP/IP, Modbus, Digital I/O, Git,
 # Awards
 
 ### Excellence Award — 2nd ICT CoC Hackathon (2020) | South Korea
-- Organized by the **National IT Industry Promotion Agency (NIPA)**
-  and the **Seoul Metropolitan Government**
-- Object detection for unauthorized buildings and rooftop gardens
-  using aerial imagery.
+- Organized by the **National IT Industry Promotion Agency (NIPA)** and the **Seoul Metropolitan Government**.
+- Developed an **aerial imagery-based object detection system using YOLOv3** to identify unauthorized buildings and rooftop gardens.
+- **Tech Stack:** C++, YOLOv3, Deep Learning, Computer Vision, Object Detection.
 
 ### 4th Place — Sejong University Software Competition (2016) | Sejong University, South Korea
-- University-level competition in **C programming and algorithms**
+- Ranked **4th place** in a university-level algorithm programming competition.
+- **Focus:** Algorithm Design, Problem Solving, C Programming.
 
 ### Bronze Award — Sejong University Creative Design Competition (2017) | Sejong University, South Korea
-- University-level creative design competition
+- Awarded Bronze Prize in a university-level creative design competition.
+- Developed a **software-based digital ruler using an optical sensor** for distance measurement.
+- **Tech Stack:** Optical Sensors, Sensor-Based Measurement, Software Development.
 
 
 ---
