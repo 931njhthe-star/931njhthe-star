@@ -30,10 +30,12 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 - **CPU-GPU Hybrid Parallelism:** Implemented concurrent CPU multithreading and CUDA execution, optimizing workload distribution, asynchronous processing, and synchronization.
 - **GPU Profiling:** Used NVIDIA Nsight Systems and Nsight Compute to analyze kernel performance, memory bottlenecks, and end-to-end pipeline latency.
 
-### Hardware & Technical Environment
+### Personal Hardware & Development Environment
+
+*Personal development and benchmarking environment (not company hardware).*
 
 - **CPU:** Intel Core i7-13700K
-- **GPU:** NVIDIA RTX 4070super (12GB)
+- **GPU:** NVIDIA GeForce RTX 4070 SUPER (12GB)
 - **Image Resolution:** 640 × 480
 - **Technologies:** C++, CUDA, OpenCV, CPU Multithreading
 
@@ -41,9 +43,9 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 
 | Algorithm | Estimated Speedup vs. CPU |
 |---|---:|
-| Advanced Gradient | 123× |
-| Rotation / Translation Template Matching | 96.8× |
-| Hybrid CPU-GPU Processing | 45.9× |
+| Advanced Gradient | 75× |
+| Rotation / Translation Template Matching | 62.8× |
+| Hybrid CPU-GPU Processing | 32.9× |
 
 *Gradient and template matching are modeled against single-threaded CPU execution; *Hybrid processing is modeled against a single-threaded CPU implementation. All estimates require experimental validation.*
 
@@ -73,7 +75,7 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 - 2D / 3D Vision
 - Automated Visual Inspection
 - Object Detection
-- YOLOv3 / YOLOv4 / YOLOv11n
+- YOLOv3 / YOLOv4 / YOLO11n
 - MobileNet-SSD
 - Camera Calibration
 - Image Data Pipelines
@@ -106,8 +108,6 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 - **High-Throughput Multi-Camera Inspection:** Contributed to the development and optimization of machine-vision software for **12-camera industrial inspection systems**, supporting an overall throughput of **up to approximately 210,000 tablets per hour (~58 tablets/sec)**.
 
 **Core Technologies:** C++, CUDA, OpenCV, CPU Multithreading, NVIDIA Nsight Systems, NVIDIA Nsight Compute.
-
-Add measurable optimization resultsClarify my specific technical contributions
 
 ---
 
