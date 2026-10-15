@@ -105,7 +105,7 @@ Developed and optimized high-performance image-processing algorithms using **CUD
 - **Gradient & Template Matching Optimization:** Optimized **gradient-based image analysis and rotation/translation-invariant template matching** for tablet engraving, imprint verification, and visual defect inspection.
 - **CUDA Kernel & GPU Memory Optimization:** Improved computational efficiency through **CUDA kernel optimization, GPU memory management, block/thread configuration tuning, and parallel execution optimization**.
 - **GPU Performance Profiling:** Utilized **NVIDIA Nsight Systems and Nsight Compute** to analyze kernel execution, GPU memory bottlenecks, CPU-GPU synchronization, and end-to-end pipeline performance.
-- **High-Throughput Multi-Camera Inspection:** Contributed to the development and optimization of machine-vision software for **12-camera industrial inspection systems**, supporting an overall throughput of **up to approximately 210,000 tablets per hour (~58 tablets/sec)**.
+- **High-Throughput Multi-Camera Inspection:** Contributed to the development and optimization of **CUDA/C++ machine-vision software** for a pharmaceutical inspection system integrating **10 2D cameras and 2 3D cameras (12 cameras total)**, supporting inspection throughput of **up to 210,000 tablets per hour (~58 tablets/sec)** for round tablets approximately **10 mm in diameter**.
 
 **Core Technologies:** C++, CUDA, OpenCV, CPU Multithreading, NVIDIA Nsight Systems, NVIDIA Nsight Compute.
 
