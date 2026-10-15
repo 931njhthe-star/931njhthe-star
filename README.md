@@ -133,12 +133,12 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 - **Tech Stack:** C++, YOLOv3, Deep Learning, Computer Vision, Object Detection.
 
 ### Bronze Award — Sejong University Creative Design Competition (2017) | Sejong University, South Korea
-- Awarded Bronze Prize in an **intra-university creative design competition**.
+- Received the **Bronze Award** in a creative design competition held at Sejong University.
 - Developed a **digital ruler application using an optical sensor** for distance measurement.
 - **Tech Stack:** Optical Sensors, Sensor-Based Measurement, Software Development.
 
 ### 4th Place — Sejong University Software Competition (2016) | Sejong University, South Korea
-- Ranked **4th place** in an **intra-university algorithm programming competition**.
+- Ranked **4th** in an algorithm programming competition held at Sejong University.
 - **Focus:** Algorithm Design, Problem Solving, C Programming.
 
 
