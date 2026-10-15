@@ -50,6 +50,9 @@ OpenCV, 2D/3D Vision, Object Detection, YOLOv3/v4, YOLO11n, MobileNet-SSD, Camer
 ### Software & Systems
 C++, C, Python, Linux, Ubuntu, WSL2, REST API, TCP/IP, Modbus, Digital I/O, Git, Docker
 
+### AI & Full-Stack Development
+LLM Applications, AI Agents, LangGraph, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Integration, Cloud Deployment (Render, Vercel)
+
 ---
 
 # Professional Experience
