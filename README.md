@@ -18,6 +18,36 @@ object detection, robotics integration, and Linux-based systems**.
 Currently expanding this systems background into 
 **CUDA-accelerated image processing, computer vision, and AI orchestration.**
 
+# Image Processing & GPU Optimization Experience
+
+### High-Performance Computer Vision & Parallel Image Processing
+
+Developed and optimized high-performance image-processing algorithms using **CUDA/C++, CPU multithreading, and GPU parallel computing**.
+
+- **Advanced Gradient:** Optimized CUDA-based gradient computation, edge-feature extraction, GPU memory access, and kernel execution.
+- **Template Matching:** Accelerated rotation- and translation-invariant pattern matching through GPU parallelization and optimized similarity computation.
+- **CPU-GPU Hybrid Parallelism:** Implemented concurrent CPU multithreading and CUDA execution, optimizing workload distribution, asynchronous processing, and synchronization.
+- **GPU Profiling:** Used NVIDIA Nsight Systems and Nsight Compute to analyze kernel performance, memory bottlenecks, and end-to-end pipeline latency.
+
+### Hardware & Technical Environment
+
+- **CPU:** Intel Core i7-14700K
+- **GPU:** NVIDIA RTX 4090 (24GB)
+- **Image Resolution:** 640 × 480
+- **Technologies:** C++, CUDA, OpenCV, CPU Multithreading
+
+### Illustrative Performance Modeling
+
+*Hypothetical estimates — not measured benchmark results.*
+
+| Algorithm | Estimated Speedup vs. CPU |
+|---|---:|
+| Advanced Gradient | 70× |
+| Rotation / Translation Template Matching | 96.8× |
+| Hybrid CPU-GPU Processing | 16.9× |
+
+*Gradient and template matching are modeled against single-threaded CPU execution; hybrid processing is modeled against an 8-thread CPU implementation. All estimates require experimental validation.*
+
 ---
 
 ## Core Expertise
