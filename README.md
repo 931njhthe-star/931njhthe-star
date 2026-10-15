@@ -94,14 +94,22 @@ C++, C, Python, Linux, Ubuntu, WSL2, REST API, TCP/IP, Modbus, Digital I/O, Git,
 
 ---
 
-# Current Training
+## Current Training
 
 ### SK Networks Family × Encore AI Campus
 **Full-time AI Orchestration Program | 2026 – Present**
 
-- LLM APIs, RAG, structured output, AI agents, MCP, and LangGraph workflows
-- FastAPI-based AI applications with databases, APIs, caching, testing, and deployment
-- Applying AI orchestration concepts to GPU inference and performance engineering
+- LLM APIs, RAG, structured output, AI agents, MCP, and LangGraph workflows.
+- FastAPI-based AI applications with databases, APIs, caching, testing, and deployment.
+- Applying AI orchestration concepts to GPU inference and performance engineering.
+
+### Featured Training Projects
+
+- 🎬 **[SubSync — AI-Powered YouTube English Tutor](https://github.com/931njhthe-star/subsync-ai-tutor)**  
+  Chrome extension integrating bilingual subtitles, vocabulary learning, and a context-aware LLM tutor for interactive English learning.
+
+- 🎯 **[CareerLens — AI-Powered Resume & Job Matching Platform](https://github.com/931njhthe-star/CareerLens-fullstack)**  
+  Full-stack AI application featuring **LangGraph-based parallel evaluation, resume-to-job matching, competency scoring, and personalized feedback**, powered by FastAPI and PostgreSQL.
 
 ---
 
