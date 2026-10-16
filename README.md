@@ -12,6 +12,8 @@ GPU Performance Engineer with **4 years and 8 months of hands-on CUDA/C++ experi
 
 Experienced in **GPU memory and execution tuning, heterogeneous CPU-GPU parallel computing, and NVIDIA Nsight profiling**.
 
+Contributed to production CUDA/C++ image-processing systems handling **up to 2.52 million image inputs per hour** in industrial pharmaceutical inspection.
+
 Bringing **7 years and 6 months of combined industry and research experience** spanning computer vision, deep learning, robotics, and Linux-based systems.
 
 Currently expanding expertise into **GPU inference optimization, LLM applications, and AI agent systems**.
@@ -26,7 +28,7 @@ Developed and optimized image-processing algorithms using **CUDA/C++, CPU multit
 
 - **Fundamental Image Processing:** Gaussian/Median Filtering, Convolution, Thresholding, Morphology (Erosion/Dilation), Edge Detection, Image Resizing, and Geometric Transformations.
 - **Gradient-Based Image Processing:** CUDA-accelerated gradient computation, edge-feature extraction, and kernel optimization.
-- **Template Matching:** GPU-parallelized rotation/translation-invariant matching and similarity computation.
+- **Template Matching:** GPU-parallelized rotation- and translation-tolerant matching and similarity computation.
 - **Heterogeneous CPU-GPU Parallelism:** Multi-core CPU parallelism with multithreading, concurrent CUDA GPU execution, asynchronous processing, CPU-GPU workload balancing, and synchronization optimization.
 - **GPU Profiling:** NVIDIA Nsight Systems and Nsight Compute for kernel performance, memory bottlenecks, and end-to-end latency analysis.
 
@@ -65,7 +67,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 
 - Developed and optimized high-performance **CUDA/C++ machine-vision software** for industrial pharmaceutical inspection systems.
 - **Heterogeneous CPU-GPU Parallel Computing:** Designed and optimized image-processing pipelines combining **CPU multithreading and CUDA GPU parallel computing**, enabling concurrent CPU-GPU execution and efficient workload distribution.
-- **Gradient & Template Matching Optimization:** Optimized **gradient-based image analysis and rotation/translation-invariant template matching** for tablet engraving, imprint verification, and visual defect inspection.
+- **Gradient & Template Matching Optimization:** Optimized **gradient-based image analysis and rotation- and translation-tolerant template matching** for tablet engraving, imprint verification, and visual defect inspection.
 - **CUDA Kernel & GPU Memory Optimization:** Improved computational efficiency through **CUDA kernel optimization, GPU memory management, block/thread configuration tuning, and parallel execution optimization**.
 - **GPU Performance Profiling:** Utilized **NVIDIA Nsight Systems and Nsight Compute** to analyze kernel execution, GPU memory bottlenecks, CPU-GPU synchronization, and end-to-end pipeline performance.
 - **High-Throughput Industrial Inspection:** Developed and optimized production CUDA/C++ image-processing components for a pharmaceutical inspection pipeline handling **up to 210,000 tablets/hour (10 mm tablet diameter) × 12 images/tablet (2.52 million images/hour)**.
