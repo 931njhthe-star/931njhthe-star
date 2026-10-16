@@ -70,7 +70,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 - **Gradient & Template Matching Optimization:** Optimized **gradient-based image analysis and rotation- and translation-tolerant template matching** for tablet engraving, imprint verification, and visual defect inspection.
 - **CUDA Kernel & GPU Memory Optimization:** Improved computational efficiency through **CUDA kernel optimization, GPU memory management, block/thread configuration tuning, and parallel execution optimization**.
 - **GPU Performance Profiling:** Utilized **NVIDIA Nsight Systems and Nsight Compute** to analyze kernel execution, GPU memory bottlenecks, CPU-GPU synchronization, and end-to-end pipeline performance.
-- **High-Throughput Industrial Inspection:** Developed and optimized production CUDA/C++ image-processing components for a pharmaceutical inspection pipeline handling **up to 210,000 tablets/hour (10 mm tablet diameter) × 12 images/tablet (2.52 million images/hour)**.
+- **High-Throughput Industrial Inspection:** Developed and optimized production CUDA/C++ image-processing components for a pharmaceutical inspection pipeline handling **up to 210,000 tablets/hour (10 mm tablet diameter) × 12 images/tablet (2.52 million image inputs/hour)**.
 - **Multi-View Image Processing:** Processed **10 RGB images (640×480)** per tablet (2 front/rear and 8 oblique views), alongside **2 integer-encoded height maps captured by 3D cameras** for surface inspection.
 
 **Core Technologies:** C++, CUDA, OpenCV, CPU Multithreading, NVIDIA Nsight Systems, NVIDIA Nsight Compute.
