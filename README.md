@@ -78,24 +78,24 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 ---
 
 ## [Sejong University — Intelligent Vehicle Recognition Systems Laboratory](https://sites.google.com/view/ivpg)
+
 ### Researcher, Deep Learning & Computer Vision
 **Nov 2019 – Oct 2020**
 
-- Developed computer vision training and evaluation workflows, including object detection using **YOLOv3/v4 and MobileNet-SSD**, and image classification using **LeNet and SVM**.
-- Processed and curated **tens to hundreds of thousands of images** extracted from video.
-- Worked with JSON/text annotations, model evaluation, error analysis, and detection improvement.
-- Worked on **camera calibration and 3D image projection**.
+- **Vehicle Detection:** Evaluated vehicle detection performance using **YOLOv3/v4 and MobileNet-SSD** on rooftop-captured video footage. Processed and curated **tens to hundreds of thousands of extracted frames**, managed JSON/text annotations, and performed detection evaluation and error analysis.
+- **Traffic Sign Recognition:** Developed a **3D-to-2D projection simulation** using camera geometry and coordinate transformations. Evaluated **LeNet and SVM recognition performance** for traffic signs rotated around different 3D axes, analyzing how rotation angles affected detection accuracy.
 
 ---
 
 ## [INA Oriental Motor](https://www.inaom.co.kr/main/main.do) — Technology Research Center
 ### Software Engineer, Robotics & Vision Systems
-**Jan 2018 – Oct 2019**
 
-- Integrated **autonomous mobile robots, six-axis collaborative robots, and 2D/3D vision systems**.
-- Developed integration software using **Python, C, REST APIs, TCP/IP, Modbus, and Digital I/O**.
-- Implemented monitoring and control workflows for robot motion and grippers.
-- Worked with deep-learning-based **3D object recognition and random bin picking** demonstrations.
+**Jan 2018 – Oct 2019 | INA Oriental Motor**
+
+- Planned and integrated an industrial robotics demonstration system combining **autonomous mobile robots, six-axis robots, 3D vision systems, and pneumatic grippers**.
+- Developed integration software using **Python, C, REST APIs, TCP/IP, Modbus, and Digital I/O** to connect heterogeneous devices and their existing control systems.
+- Implemented **monitoring, motion coordination, and gripper control workflows** for multi-device operation.
+- Integrated deep-learning-based **3D object recognition and random bin-picking solutions** into robotics demonstrations.
 
 ---
 
