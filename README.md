@@ -111,7 +111,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 ## Featured Training Projects
 
 - 🚗 [**DriveFusion — Real-Time Automotive Vision & Radar Fusion**](https://github.com/931njhthe-star/DriveFusion)  
-  CARLA-based application integrating YOLO detection, object tracking, camera–radar fusion, and distance estimation with a real-time Qt dashboard, session recording, and evaluation.
+  Independently designed and implemented a CARLA-based system featuring YOLO11n detection, vehicle tracking, camera–radar fusion, and distance estimation. Includes a C++/CUDA TensorRT inference pipeline built separately for Windows and Linux, a real-time Qt dashboard,  session recording, and ground-truth-based evaluation.
 
 - 🎬 **[SubSync — AI-Powered YouTube English Tutor](https://github.com/931njhthe-star/subsync-ai-tutor)**  
   Chrome extension integrating bilingual subtitles, vocabulary learning, and a context-aware LLM tutor for interactive English learning.
