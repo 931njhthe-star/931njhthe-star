@@ -73,8 +73,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 - **High-Throughput Industrial Inspection:** Developed and optimized production CUDA/C++ image-processing components for a pharmaceutical inspection pipeline handling **up to 210,000 tablets/hour (10 mm tablet diameter) × 12 images/tablet (2.52 million image inputs/hour)**.
 - **Multi-View Image Processing:** Processed **10 RGB images (640×480)** per tablet (2 front/rear and 8 oblique views), alongside **2 integer-encoded height maps captured by 3D cameras** for surface inspection.
 
-**Core Technologies:** C++, CUDA, OpenCV, CPU Multithreading, NVIDIA Nsight Systems, NVIDIA Nsight Compute.
-
+**Technical Skills:** C++, CUDA, OpenCV, CPU Multithreading, NVIDIA Nsight Systems, NVIDIA Nsight Compute.
 ---
 
 ## [Sejong University — Intelligent Vehicle Recognition Systems Laboratory](https://sites.google.com/view/ivpg)
@@ -85,6 +84,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 - **Vehicle Detection:** Evaluated vehicle detection performance using **YOLOv3/v4 and MobileNet-SSD** on rooftop-captured video footage. Processed and curated **tens to hundreds of thousands of extracted frames**, managed JSON/text annotations, and performed detection evaluation and error analysis.
 - **Traffic Sign Recognition:** Developed a **3D-to-2D projection simulation** using camera geometry and coordinate transformations. Evaluated **LeNet and SVM recognition performance** for traffic signs rotated around different 3D axes, analyzing how rotation angles affected detection accuracy.
 
+**Technical Skills:** C++, Python, YOLOv3/v4, MobileNet-SSD, LeNet, SVM, Computer Vision, Camera Geometry, 3D Coordinate Transformation.
 ---
 
 ## [INA Oriental Motor](https://www.inaom.co.kr/main/main.do) — Technology Research Center
@@ -97,6 +97,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 - Implemented **monitoring, motion coordination, and gripper control workflows** for multi-device operation.
 - Integrated deep-learning-based **3D object recognition and random bin-picking solutions** into robotics demonstrations.
 
+**Technical Skills:** C++, Python, REST APIs, TCP/IP, Modbus, Digital I/O, 2D/3D Vision, Industrial Robot and Sensor System Integration.
 ---
 
 # AI Training & Projects
