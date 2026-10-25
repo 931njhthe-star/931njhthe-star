@@ -111,13 +111,13 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 ## Featured Training Projects
 
 - 🚗 [**DriveFusion — Real-Time Automotive Vision & Radar Fusion**](https://github.com/931njhthe-star/DriveFusion)  
-  Independently designed and implemented a CARLA-based system featuring YOLO11n detection, vehicle tracking, camera–radar fusion, and distance estimation. Includes a C++/CUDA TensorRT inference pipeline built separately for Windows and Linux, a real-time Qt dashboard,  session recording, and ground-truth-based evaluation.
+  Independently designed and implemented a CARLA-based system featuring YOLO11n detection, vehicle tracking, camera–radar fusion, and distance estimation. Includes a C++/CUDA TensorRT inference pipeline built separately for Windows and Linux, a real-time Qt dashboard, session recording, and ground-truth-based evaluation.
 
-- 🎬 **SubSync — AI-Powered YouTube English Tutor**  
+- 🎬 [**SubSync — AI-Powered YouTube English Tutor**](https://github.com/931njhthe-star/subsync-ai-tutor)  
   **Description:** Built a Chrome extension integrating bilingual subtitles, vocabulary learning, and a context-aware LLM tutor.  
   **Role:** Project Lead (PM), authentication system development, backend integration, deployment, and quality management.
 
-- 🎯 **CareerLens — AI-Powered Resume & Job Matching Platform**  
+- 🎯 [**CareerLens — AI-Powered Resume & Job Matching Platform**](https://github.com/931njhthe-star/CareerLens-fullstack)  
   **Description:** Built a career support service that uses AI to analyze resumes and job postings and assess candidates’ strengths and skill gaps.  
   **Role:** Designed the AI analysis architecture, built a LangGraph workflow with 12 parallel evaluation branches, designed the PostgreSQL database, integrated the backend, and deployed the service to the cloud.
 
