@@ -26,34 +26,24 @@ Currently expanding expertise into **GPU inference optimization, LLM application
 
 Developed and optimized image-processing algorithms using **CUDA/C++, CPU multithreading, and GPU parallel computing**.
 
-- **Fundamental Image Processing:** Gaussian/Median Filtering, Convolution, Thresholding, Morphology (Erosion/Dilation), Edge Detection, Image Resizing, and Geometric Transformations.
-- **Gradient-Based Image Processing:** CUDA-accelerated gradient computation, edge-feature extraction, and kernel optimization.
-- **Template Matching:** GPU-parallelized rotation- and translation-tolerant matching and similarity computation.
 - **Heterogeneous CPU-GPU Parallelism:** Multi-core CPU parallelism with multithreading, concurrent CUDA GPU execution, asynchronous processing, CPU-GPU workload balancing, and synchronization optimization.
 - **GPU Profiling:** NVIDIA Nsight Systems and Nsight Compute for kernel performance, memory bottlenecks, and end-to-end latency analysis.
-
-### Personal Development Environment
-
-- **CPU / GPU:** Intel Core i7-13700K / NVIDIA RTX 4070 SUPER (12GB)
 
 ---
 
 # Core Expertise
 
 ### CUDA & GPU Performance
-CUDA/C++, Kernel Optimization, GPU Memory Management, CPU-GPU Parallelism, Multithreading, Synchronization, Performance Tuning
+CUDA/C++, Kernel Optimization, GPU Memory Management, CPU-GPU Parallelism, Multithreading, Performance Tuning
 
 ### GPU Profiling
 NVIDIA Nsight Systems and Nsight Compute, Kernel Analysis, Memory Bottlenecks, End-to-End Latency Analysis
 
 ### Computer Vision
-OpenCV, 2D/3D Vision, Object Detection, YOLOv3/v4, YOLO11n, MobileNet-SSD, Camera Calibration, Image Processing Pipelines
+Image Processing Pipelines, 2D/3D Vision
 
 ### Software & Systems
-C++, C, Python, Linux, Ubuntu, WSL2, REST API, TCP/IP, Modbus, Digital I/O, Git, Docker
-
-### AI Agent Applications & Full-Stack Development
-LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Integration, Cloud Deployment
+C++, C, Python, windows, Linux
 
 ---
 
@@ -67,13 +57,12 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 
 - Developed and optimized high-performance **CUDA/C++ machine-vision software** for industrial pharmaceutical inspection systems.
 - **Heterogeneous CPU-GPU Parallel Computing:** Designed and optimized image-processing pipelines combining **CPU multithreading and CUDA GPU parallel computing**, enabling concurrent CPU-GPU execution and efficient workload distribution.
-- **Gradient & Template Matching Optimization:** Optimized **gradient-based image analysis and rotation- and translation-tolerant template matching** for tablet engraving, imprint verification, and visual defect inspection.
 - **CUDA Kernel & GPU Memory Optimization:** Improved computational efficiency through **CUDA kernel optimization, GPU memory management, block/thread configuration tuning, and parallel execution optimization**.
-- **GPU Performance Profiling:** Utilized **NVIDIA Nsight Systems and Nsight Compute** to analyze kernel execution, GPU memory bottlenecks, CPU-GPU synchronization, and end-to-end pipeline performance.
-- **High-Throughput Industrial Inspection:** Developed and optimized production CUDA/C++ image-processing components for a pharmaceutical inspection pipeline handling **up to 210,000 tablets/hour (10 mm tablet diameter) × 12 images/tablet (2.52 million image inputs/hour)**.
-- **Multi-View Image Processing:** Processed **10 RGB images (640×480)** per tablet (2 front/rear and 8 oblique views), alongside **2 integer-encoded height maps captured by 3D cameras** for surface inspection.
+- **GPU Performance Profiling:** Utilized **NVIDIA Nsight** to analyze kernel execution, GPU memory bottlenecks, CPU-GPU synchronization, and end-to-end pipeline performance.
+- **High-Throughput Industrial Inspection:** Developed and optimized production CUDA/C++ image-processing components for a pharmaceutical inspection pipeline handling **up to 2.52 million image inputs/hour**.
+- **Multi-View Image Processing:** Processed **10 RGB images (640×480)** per object (2 front/rear and 8 oblique views), alongside **2 integer-encoded height maps captured by 3D cameras** for surface inspection.
 
-**Technical Skills:** C++, CUDA, OpenCV, CPU Multithreading, NVIDIA Nsight Systems, NVIDIA Nsight Compute.
+**Technical Skills:** C++, CUDA, OpenCV, CPU Multithreading, NVIDIA Nsight
 ---
 
 ## [Sejong University — Intelligent Vehicle Recognition Systems Laboratory](https://sites.google.com/view/ivpg)
@@ -97,7 +86,7 @@ LangGraph, LLM Integration, FastAPI, PostgreSQL, REST APIs, Frontend-Backend Int
 - Implemented **monitoring, motion coordination, and gripper control workflows** for multi-device operation.
 - Integrated deep-learning-based **3D object recognition and random bin-picking solutions** into robotics demonstrations.
 
-**Technical Skills:** C++, Python, REST APIs, TCP/IP, Modbus, Digital I/O, 2D/3D Vision, Industrial Robot and Sensor System Integration.
+**Technical Skills:** C++, Python, TCP/IP, Modbus, Digital I/O, Industrial Robot and Sensor System Integration.
 ---
 
 # AI Training & Projects
