@@ -87,11 +87,14 @@ C++, C, Python, windows, Linux
 **Performance:** Reduced distance estimation MAE by **5.41% overall** and **39.42% on radar-corrected samples**.
 
 ## SK Networks Family × Encore AI Campus
+
 **Full-time AI Orchestration Program | 2026 – Present**
 
-- LLM APIs, RAG, structured output, AI agents, MCP, and LangGraph workflows.
-- FastAPI-based AI applications with databases, APIs, caching, testing, and deployment.
-- Exploring the integration of AI agent workflows with GPU-accelerated applications.
+- **AI Orchestration:** Developed AI applications using LLM APIs, RAG, LangGraph, AI agents, and MCP.
+- **End-to-End AI Development:** Built AI systems integrating FastAPI, databases, authentication, caching, testing, and deployment.
+- **GPU Performance Focus:** Expanding understanding of AI workloads and system architectures to strengthen GPU inference and end-to-end performance optimization capabilities.
+
+**Technical Skills:** Python, FastAPI, Full-Stack Development, REST APIs, PostgreSQL, Redis, Docker, AWS, CI/CD, GitHub Actions, LangGraph, MCP.
 
 ---
 
