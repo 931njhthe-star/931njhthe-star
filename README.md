@@ -132,9 +132,9 @@ C/C++, Python, Windows, Linux
 
 ### Korean National Technical Qualifications
 
-- **Engineer Information and Communication** — Engineer Level
+- **Engineer Information Communication** — Engineer Level
 - **Engineer Radio Telecommunication Equipment** — Engineer Level
 - **Industrial Engineer Electronics** — Industrial Engineer Level
-- **Industrial Engineer Computer Control** — Industrial Engineer Level
+- **Industrial Engineer Computer Maintenance Control** — Industrial Engineer Level
 
 > South Korean qualification levels: **Craftsman < Industrial Engineer < Engineer**
