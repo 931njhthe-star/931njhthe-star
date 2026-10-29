@@ -43,9 +43,8 @@ C/C++, Python, Windows, Linux
 
 - Developed and optimized high-performance **CUDA/C++ machine-vision software** for industrial pharmaceutical inspection systems.
 - **CPU-GPU Pipeline Redesign:** Redesigned CPU-optimized image-processing pipelines for **multi-core CPU and CUDA GPU parallel execution**, eliminating unnecessary processing stages and improving workload distribution.
-- **Performance Improvement:** Achieved **11.2× higher image-processing throughput** compared to a single-core CPU baseline, supporting up to **2.52 million images per hour**.
-- **High-Throughput Industrial Inspection:** Developed and optimized production CUDA/C++ image-processing components for a pharmaceutical inspection pipeline handling **up to 2.52 million image inputs/hour**.
-- **Multi-View Image Processing:** Processed **10 RGB images (640×480)** per object (2 front/rear and 8 oblique views), alongside **2 integer-encoded height maps captured by 3D cameras** for surface inspection.
+- **Performance Improvement:** Achieved **11.2× higher image-processing throughput** than a single-core CPU baseline and **~40% higher throughput** than a multi-core CPU-only implementation, reaching **2.52 million images per hour**.
+- **Multi-View Image Processing:** Processed **10 RGB images (640×480)** and **2 3D camera-derived height maps** per object for multi-view surface inspection.
 
 **Technical Skills:** C++, CUDA, CPU-GPU Pipeline Optimization, Computer Vision.
 
