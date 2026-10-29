@@ -104,16 +104,6 @@ C++, C, Python, windows, Linux
 - FastAPI-based AI applications with databases, APIs, caching, testing, and deployment.
 - Exploring the integration of AI agent workflows with GPU-accelerated applications.
 
-## Featured Training Projects
-
-- 🎬 [**SubSync — AI-Powered YouTube English Tutor**](https://github.com/931njhthe-star/subsync-ai-tutor)  
-  **Description:** Built a Chrome extension integrating bilingual subtitles, vocabulary learning, and a context-aware LLM tutor.  
-  **Role:** Project Lead (PM), authentication system development, backend integration, deployment, and quality management.
-
-- 🎯 [**CareerLens — AI-Powered Resume & Job Matching Platform**](https://github.com/931njhthe-star/CareerLens-fullstack)  
-  **Description:** Built a career support service that uses AI to analyze resumes and job postings and assess candidates’ strengths and skill gaps.  
-  **Role:** Designed the AI analysis architecture, built a LangGraph workflow with 12 parallel evaluation branches, designed the PostgreSQL database, integrated the backend, and deployed the service to the cloud.
-
 ---
 
 # Education
