@@ -16,7 +16,7 @@ Contributed to production CUDA/C++ image-processing systems handling **up to 2.5
 
 Bringing **7 years and 6 months of combined industry and research experience** spanning computer vision, deep learning, robotics.
 
-Currently expanding expertise into **GPU inference optimization, LLM applications, and AI agent systems**.
+Currently expanding expertise in **end-to-end AI systems** to better understand AI workloads and strengthen **GPU inference and system-level performance optimization** capabilities.
 
 ---
 
