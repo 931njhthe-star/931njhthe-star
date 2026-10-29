@@ -42,7 +42,7 @@ C/C++, Python, Windows, Linux
 **Mar 2021 – Oct 2025**
 
 - Developed and optimized high-performance **CUDA/C++ machine-vision software** for industrial pharmaceutical inspection systems.
-- **CPU-GPU Pipeline Redesign:** Redesigned CPU-optimized image-processing pipelines for **multi-core CPU and CUDA GPU parallel execution**, eliminating unnecessary processing stages and improving workload distribution.
+- **CPU-GPU Pipeline Redesign:** Redesigned image-processing pipelines with **selective CUDA acceleration for compute-intensive workloads**, retaining efficient CPU processing for lighter tasks and optimizing CPU-GPU workload distribution.
 - **Performance Improvement:** Achieved **11.2× higher image-processing throughput** than a single-core CPU baseline and **~40% higher throughput** than a multi-core CPU-only implementation, reaching **2.52 million images per hour**.
 - **Multi-View Image Processing:** Processed **10 RGB images (640×480)** and **2 3D camera-derived height maps** per object for multi-view surface inspection.
 
