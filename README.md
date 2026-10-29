@@ -50,7 +50,8 @@ C++, C, Python, windows, Linux
 - **High-Throughput Industrial Inspection:** Developed and optimized production CUDA/C++ image-processing components for a pharmaceutical inspection pipeline handling **up to 2.52 million image inputs/hour**.
 - **Multi-View Image Processing:** Processed **10 RGB images (640×480)** per object (2 front/rear and 8 oblique views), alongside **2 integer-encoded height maps captured by 3D cameras** for surface inspection.
 
-**Technical Skills:** C++, CUDA, CPU-GPU Pipeline Optimization, Computer Vision,.
+**Technical Skills:** C++, CUDA, CPU-GPU Pipeline Optimization, Computer Vision.
+
 ---
 
 ## [Sejong University — Intelligent Vehicle Recognition Systems Laboratory](https://sites.google.com/view/ivpg)
@@ -62,6 +63,7 @@ C++, C, Python, windows, Linux
 - **Traffic Sign Recognition:** Developed a **3D-to-2D projection simulation** using camera geometry and coordinate transformations. Evaluated **LeNet and SVM recognition performance** for traffic signs rotated around different 3D axes, analyzing how rotation angles affected detection accuracy.
 
 **Technical Skills:** C++, Python, 2D/3D Computer Vision.
+
 ---
 
 ## [INA Oriental Motor](https://www.inaom.co.kr/main/main.do) — Technology Research Center
@@ -75,6 +77,7 @@ C++, C, Python, windows, Linux
 - Integrated deep-learning-based **3D object recognition and random bin-picking solutions** into robotics demonstrations.
 
 **Technical Skills:** C++, Python, Industrial Robot and Sensor System Integration.
+
 ---
 
 # AI Training & Projects
@@ -97,6 +100,7 @@ C++, C, Python, windows, Linux
 - **GPU Performance Focus:** Expanding understanding of AI workloads and system architectures to strengthen GPU inference and end-to-end performance optimization capabilities.
 
 **Technical Skills:** Full-Stack Development, AI Multi agent, Docker, AWS, CI/CD.
+
 ---
 
 # Education
