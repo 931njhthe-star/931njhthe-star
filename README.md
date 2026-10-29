@@ -10,7 +10,7 @@
 
 GPU Performance Engineer with **4 years and 8 months of hands-on CUDA/C++ experience**, specializing in **GPU kernel optimization, high-performance image processing, and industrial machine vision**.
 
-Experienced in **GPU memory and execution tuning, heterogeneous CPU-GPU parallel computing, and NVIDIA Nsight profiling**.
+Experienced in **redesigning CPU-optimized pipelines for GPU execution**, GPU memory and execution tuning, heterogeneous CPU-GPU parallel computing, and NVIDIA Nsight profiling.
 
 Contributed to production CUDA/C++ image-processing systems handling **up to 2.52 million image inputs per hour** in industrial pharmaceutical inspection.
 
