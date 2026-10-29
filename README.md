@@ -68,11 +68,11 @@ C/C++, Python, Windows, Linux
 **Jan 2018 – Oct 2019 | INA Oriental Motor**
 
 - Planned and integrated an industrial robotics demonstration system combining **autonomous mobile robots, six-axis robots, 3D vision systems, and pneumatic grippers**.
-- Developed integration software using **Python, C, REST APIs, TCP/IP, Modbus, and Digital I/O** to connect heterogeneous devices and their existing control systems.
+- Developed integration software using **Python, REST APIs, TCP/IP, Modbus, and Digital I/O** to connect heterogeneous devices and their existing control systems.
 - Implemented **monitoring, motion coordination, and gripper control workflows** for multi-device operation.
 - Integrated deep-learning-based **3D object recognition and random bin-picking solutions** into robotics demonstrations.
 
-**Technical Skills:** C++, Python, Industrial Robot and Sensor System Integration.
+**Technical Skills:** Python, Industrial Robot and Sensor System Integration.
 
 ---
 
@@ -95,7 +95,7 @@ C/C++, Python, Windows, Linux
 - **End-to-End AI Development:** Built AI systems integrating FastAPI, databases, authentication, caching, testing, and deployment.
 - **GPU Performance Focus:** Expanding understanding of AI workloads and system architectures to strengthen GPU inference and end-to-end performance optimization capabilities.
 
-**Technical Skills:** Full-Stack Development, AI Multi agent, Docker, AWS, CI/CD.
+**Technical Skills:** Full-Stack Development, Multi-Agent Systems, Docker, AWS, CI/CD.
 
 ---
 
@@ -137,14 +137,4 @@ C/C++, Python, Windows, Linux
 - **Industrial Engineer Electronics** — Industrial Engineer Level
 - **Industrial Engineer Computer Control** — Industrial Engineer Level
 
-> South Korean qualification levels: **Craftsman < Industrial Engineer < Engineer < Professional Engineer**
-
----
-
-# Current Focus
-
-**CUDA Optimization × Computer Vision × GPU Inference**
-
-My primary focus is on **CUDA optimization, high-performance computer vision, and GPU inference**.
-
-I am expanding my expertise in **AI orchestration and end-to-end AI systems** to better understand how GPU-accelerated workloads integrate into real-world AI applications and identify opportunities for system-level performance optimization.
+> South Korean qualification levels: **Craftsman < Industrial Engineer < Engineer**
