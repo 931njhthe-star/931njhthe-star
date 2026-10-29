@@ -83,6 +83,7 @@ C++, C, Python, windows, Linux
 
 - 🚗 [**DriveFusion — Real-Time Automotive Vision & Radar Fusion**](https://github.com/931njhthe-star/DriveFusion)  
   Independently designed and implemented a CARLA-based system featuring YOLO11n detection, vehicle tracking, camera–radar fusion, and distance estimation. Includes a C++/CUDA TensorRT inference pipeline built separately for Windows and Linux, a real-time Qt dashboard, session recording, and ground-truth-based evaluation.
+
 **Performance:** Reduced distance estimation MAE by **5.41% overall** and **39.42% on radar-corrected samples**.
 
 ## SK Networks Family × Encore AI Campus
