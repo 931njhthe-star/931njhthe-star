@@ -14,7 +14,7 @@ Experienced in **redesigning CPU-optimized pipelines for GPU execution**, GPU me
 
 Contributed to production CUDA/C++ image-processing systems handling **up to 2.52 million image inputs per hour** in industrial pharmaceutical inspection.
 
-Bringing **7 years and 6 months of combined industry and research experience** spanning computer vision, deep learning, robotics, and Linux-based systems.
+Bringing **7 years and 6 months of combined industry and research experience** spanning computer vision, deep learning, robotics.
 
 Currently expanding expertise into **GPU inference optimization, LLM applications, and AI agent systems**.
 
