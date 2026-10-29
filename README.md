@@ -65,7 +65,7 @@ C/C++, Python, Windows, Linux
 ## [INA Oriental Motor](https://www.inaom.co.kr/main/main.do) — Technology Research Center
 ### Software Engineer, Robotics & Vision Systems
 
-**Jan 2018 – Oct 2019 | INA Oriental Motor**
+**Jan 2018 – Oct 2019**
 
 - Planned and integrated an industrial robotics demonstration system combining **autonomous mobile robots, six-axis robots, 3D vision systems, and pneumatic grippers**.
 - Developed integration software using **Python, REST APIs, TCP/IP, Modbus, and Digital I/O** to connect heterogeneous devices and their existing control systems.
@@ -89,7 +89,7 @@ C/C++, Python, Windows, Linux
 
 ### Full-time AI Orchestration Program
 
-**Aug 2026 – Present | SK Networks Family × Encore AI Campus**
+**Aug 2026 – Present**
 
 - **AI Orchestration:** Developed AI applications using LLM APIs, RAG, LangGraph, AI agents, and MCP.
 - **End-to-End AI Development:** Built AI systems integrating FastAPI, databases, authentication, caching, testing, and deployment.
