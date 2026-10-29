@@ -20,17 +20,6 @@ Currently expanding expertise in **end-to-end AI systems** to better understand 
 
 ---
 
-# Image Processing & GPU Optimization Experience
-
-### High-Performance Computer Vision & Parallel Image Processing
-
-Developed and optimized image-processing algorithms using **CUDA/C++, CPU multithreading, and GPU parallel computing**.
-
-- **Heterogeneous CPU-GPU Parallelism:** Multi-core CPU parallelism with multithreading, concurrent CUDA GPU execution, asynchronous processing, CPU-GPU workload balancing, and synchronization optimization.
-- **GPU Profiling:** NVIDIA Nsight Systems and Nsight Compute for kernel performance, memory bottlenecks, and end-to-end latency analysis.
-
----
-
 # Core Expertise
 
 ### CUDA & GPU Performance
