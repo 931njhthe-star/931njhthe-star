@@ -23,16 +23,13 @@ Currently expanding expertise in **end-to-end AI systems** to better understand 
 # Core Expertise
 
 ### CUDA & GPU Performance
-CUDA/C++, Kernel Optimization, GPU Memory Management, CPU-GPU Parallelism, Multithreading, Performance Tuning
-
-### GPU Profiling
-NVIDIA Nsight Systems and Nsight Compute, Kernel Analysis, Memory Bottlenecks, End-to-End Latency Analysis
+CPU-GPU Parallelism, Kernel Optimization, NVIDIA Nsight Performance Profiling.
 
 ### Computer Vision
 Image Processing Pipelines, 2D/3D Vision
 
 ### Software & Systems
-C++, C, Python, windows, Linux
+C/C++, Python, Windows, Linux
 
 ---
 
