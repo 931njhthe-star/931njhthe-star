@@ -96,8 +96,7 @@ C++, C, Python, windows, Linux
 - **End-to-End AI Development:** Built AI systems integrating FastAPI, databases, authentication, caching, testing, and deployment.
 - **GPU Performance Focus:** Expanding understanding of AI workloads and system architectures to strengthen GPU inference and end-to-end performance optimization capabilities.
 
-## **Technical Skills:** Python, FastAPI, Full-Stack Development, REST APIs, PostgreSQL, Redis, Docker, AWS, CI/CD, GitHub Actions, LangGraph, MCP.
-
+**Technical Skills:** Full-Stack Development, AI Multi agent, Docker, AWS, CI/CD, MCP.
 ---
 
 # Education
