@@ -154,4 +154,4 @@ C++, C, Python, windows, Linux
 
 My primary focus is on **CUDA optimization, high-performance computer vision, and GPU inference**.
 
-I am also expanding into **AI agent applications and full-stack AI development**.
+I am expanding my expertise in **AI orchestration and end-to-end AI systems** to better understand how GPU-accelerated workloads integrate into real-world AI applications and identify opportunities for system-level performance optimization.
