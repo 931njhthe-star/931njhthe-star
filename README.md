@@ -88,13 +88,15 @@ C++, C, Python, windows, Linux
 
 ## SK Networks Family × Encore AI Campus
 
-**Full-time AI Orchestration Program | 2026 – Present**
+### Full-time AI Orchestration Program
+
+**Aug 2026 – Present | SK Networks Family × Encore AI Campus**
 
 - **AI Orchestration:** Developed AI applications using LLM APIs, RAG, LangGraph, AI agents, and MCP.
 - **End-to-End AI Development:** Built AI systems integrating FastAPI, databases, authentication, caching, testing, and deployment.
 - **GPU Performance Focus:** Expanding understanding of AI workloads and system architectures to strengthen GPU inference and end-to-end performance optimization capabilities.
 
-**Technical Skills:** Python, FastAPI, Full-Stack Development, REST APIs, PostgreSQL, Redis, Docker, AWS, CI/CD, GitHub Actions, LangGraph, MCP.
+## **Technical Skills:** Python, FastAPI, Full-Stack Development, REST APIs, PostgreSQL, Redis, Docker, AWS, CI/CD, GitHub Actions, LangGraph, MCP.
 
 ---
 
