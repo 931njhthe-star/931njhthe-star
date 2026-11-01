@@ -80,7 +80,9 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 
 **Python · REST · TCP/IP · Modbus · Digital I/O · 3D vision**
 
-[Project page](https://931njhthe-star.github.io/robotics-vision/) · [Demonstration video](https://www.youtube.com/watch?v=wLmfVy-GDSs)
+[Project page](https://931njhthe-star.github.io/robotics-vision/)
+
+<a href="https://www.youtube.com/watch?v=wLmfVy-GDSs"><img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="640" alt="Robotics and 3D Bin-Picking demonstration video"></a>
 
 </td>
 </tr>
