@@ -10,7 +10,7 @@ Seoul, South Korea · Open to remote opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-76B900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://931njhthe-star.github.io/)
 [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunjirho@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white)](https://931njhthe-star.github.io/#contact)
+[English Resume (PDF)](https://931njhthe-star.github.io/assets/Jihun_Rho_Resume_English.pdf) · [한국어 이력서 (PDF)](https://931njhthe-star.github.io/assets/Jihun_Rho_Resume_Korean.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/931njhthe-star)
 
 </div>
