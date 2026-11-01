@@ -29,6 +29,9 @@ Currently completing a full-time AI Orchestration program while building end-to-
 
 ### High-Throughput CUDA Vision Pipeline
 
+<img width="1586" height="992" alt="image" src="https://github.com/user-attachments/assets/2b01478c-4c53-4d04-a2c2-1a7a2777189d" />
+
+
 Production machine-vision work for pharmaceutical inspection. I optimized the CPU–GPU processing pipeline through selective CUDA acceleration, workload allocation, kernel and memory tuning, and NVIDIA Nsight profiling. Proprietary algorithms and implementation details are not disclosed.
 
 - **11.2× higher throughput** than a single-core CPU baseline
