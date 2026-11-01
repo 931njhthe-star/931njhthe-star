@@ -82,7 +82,14 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 
 [Project page](https://931njhthe-star.github.io/robotics-vision/)
 
-<a href="https://www.youtube.com/watch?v=wLmfVy-GDSs"><img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="640" alt="Robotics and 3D Bin-Picking demonstration video"></a>
+#### Device Connections and Exhibition Setup
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/2ccf3928-5214-479e-8f41-16fa30560c86"><img src="https://github.com/user-attachments/assets/2ccf3928-5214-479e-8f41-16fa30560c86" width="31%" alt="Initial cable routing"></a>
+  <a href="https://github.com/user-attachments/assets/7fc0e9f2-be73-4037-80d6-06f917404848"><img src="https://github.com/user-attachments/assets/7fc0e9f2-be73-4037-80d6-06f917404848" width="31%" alt="Organized connections"></a>
+  <a href="https://github.com/user-attachments/assets/81608800-e51b-41e9-90d3-67fe5e3cc689"><img src="https://github.com/user-attachments/assets/81608800-e51b-41e9-90d3-67fe5e3cc689" width="31%" alt="Exhibition-day setup"></a>
+</div>
+<div align="center"><sub>Initial cable routing · Organized connections · Exhibition-day setup</sub></div>
 
 </td>
 </tr>
