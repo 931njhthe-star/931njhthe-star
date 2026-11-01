@@ -34,8 +34,6 @@ Production machine-vision work for pharmaceutical inspection. I optimized the CP
 
 **Tech stack:** `C++` · `CUDA` · `Nsight Systems` · `Nsight Compute` · `Computer Vision`
 
-[Portfolio project overview](https://931njhthe-star.github.io/#projects)
-
 ## More Projects
 
 <table>
@@ -107,12 +105,7 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 | **Robotics & integration** | Robot control, REST, TCP/IP, Modbus, Digital I/O |
 | **AI application engineering** | Python, FastAPI, LangGraph, Docker, CI/CD |
 
-## Experience
-
-- **Enclony** · Research Engineer, CUDA & GPU Performance · Mar 2021 – Oct 2025
-- **Sejong University** · Computer Vision Researcher · Nov 2019 – Oct 2020
-- **INA Oriental Motor** · Software Engineer, Robotics & Vision Integration · Jan 2018 – Oct 2019
-
+[For the full overview of my work, visit my portfolio](https://931njhthe-star.github.io/).
 ---
 
 <div align="center"><sub>GPU performance · Real-time vision · High-throughput systems</sub></div>
