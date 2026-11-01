@@ -21,100 +21,66 @@ I focus on profiling-driven optimization: identifying pipeline bottlenecks, choo
 
 Currently completing a full-time AI Orchestration program while building end-to-end vision and inference systems.
 
-## Featured projects
-
-### [DriveFusion — Real-Time Camera–Radar Perception & Evaluation](https://931njhthe-star.github.io/drivefusion/)
-
-A solo CARLA project that combines YOLO11n detection, vehicle tracking, radar-assisted distance estimation, and a Qt monitoring dashboard. A C++/CUDA TensorRT module runs inference; session recording and ground-truth evaluation support repeatable comparisons.
-
-<p align="center">
-  <a href="https://931njhthe-star.github.io/drivefusion/">
-    <img src="https://931njhthe-star.github.io/assets/drivefusion.gif" width="100%" alt="DriveFusion camera-radar perception dashboard">
-  </a>
-</p>
-
-**Evaluation across 9 driving sessions**
-
-| Evaluation set | Samples | Distance MAE reduction |
-|---|---:|---:|
-| All common samples | 16,491 | **5.41%** |
-| Radar-corrected samples | 437 | **39.42%** |
-
-**Tech stack:** `C++` · `CUDA` · `TensorRT` · `YOLO11n` · `Qt` · `CARLA` · `Radar fusion`
-
-[Project page](https://931njhthe-star.github.io/drivefusion/) · [Repository](https://github.com/931njhthe-star/DriveFusion)
-
----
+## Featured Project
 
 ### High-Throughput CUDA Vision Pipeline
 
 Production machine-vision work for pharmaceutical inspection. I optimized the CPU–GPU processing pipeline through selective CUDA acceleration, workload allocation, kernel and memory tuning, and NVIDIA Nsight profiling. Proprietary algorithms and implementation details are not disclosed.
 
-- **11.2× throughput** versus a single-core CPU baseline
-- **~40% higher throughput** versus a multi-core CPU-only pipeline
-- **2.52M images/hour** across 12 views per inspected object
+- **11.2× higher throughput** than a single-core CPU baseline
+- **~40% higher throughput** than a multi-core CPU-only pipeline
+- **2.52 million images/hour**, processing 12 views per inspected object
 - Selective GPU acceleration for compute-intensive operations
 
-**Tech stack:** `C++` · `CUDA` · `Nsight Systems` · `Nsight Compute` · `Computer vision`
+**Tech stack:** `C++` · `CUDA` · `Nsight Systems` · `Nsight Compute` · `Computer Vision`
 
----
+[Portfolio project overview](https://931njhthe-star.github.io/#projects)
 
-### [Robotics & 3D Bin-Picking System Integration](https://931njhthe-star.github.io/robotics-vision/)
-
-Integrated a MiR autonomous mobile robot, a Doosan six-axis robot, Solomon 3D vision, and pneumatic gripper control into a coordinated demonstration system. Built software interfaces for existing device controllers and coordinated robot, vision, and gripper workflows.
-
-**Tech stack:** `Python` · `REST` · `TCP/IP` · `Modbus` · `Digital I/O` · `3D vision`
-
-[Project page](https://931njhthe-star.github.io/robotics-vision/) · [Demonstration video](https://www.youtube.com/watch?v=wLmfVy-GDSs)
-
-## More projects
+## More Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://931njhthe-star.github.io/drivefusion/"><img src="https://931njhthe-star.github.io/assets/drivefusion.gif" width="100%" alt="DriveFusion camera-radar perception dashboard"></a>
+
+### DriveFusion — Real-Time Camera–Radar Perception & Evaluation
+
+A solo CARLA project combining YOLO11n detection, vehicle tracking, radar-assisted distance estimation, and a Qt monitoring dashboard. A C++/CUDA TensorRT module runs inference; session recording and ground-truth evaluation support repeatable comparisons across nine driving sessions.
+
+**Evaluation:** 16,491 common samples, **5.41% lower overall distance MAE**; 437 radar-corrected samples, **39.42% lower MAE**.
+
+**C++ · CUDA · TensorRT · YOLO11n · Qt · CARLA · Radar fusion**
+
+[Project page](https://931njhthe-star.github.io/drivefusion/) · [Repository](https://github.com/931njhthe-star/DriveFusion)
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/931njhthe-star/subsync-ai-tutor"><img src="https://931njhthe-star.github.io/assets/subsync.gif" width="100%" alt="SubSync browser extension and AI tutor"></a>
 
-### [SubSync — AI-Powered YouTube English Tutor](https://github.com/931njhthe-star/subsync-ai-tutor)
+### SubSync — AI-Powered YouTube English Tutor
 
-Led a five-person team building a Chrome extension MVP for learning English with synchronized subtitles, saved vocabulary, and a Gemini-powered tutor. Integrated the extension with backend APIs, authentication, storage, and caching.
+Led a five-person team building a Chrome extension MVP for learning English with synchronized subtitles, saved vocabulary, and an AI tutor. Integrated the extension with backend APIs, authentication, storage, and caching. The backend test suite passed all 79 tests.
 
-**Chrome Extension (MV3) · FastAPI · Gemini · Supabase · Redis**
+**Chrome Extension (MV3) · FastAPI · AI agent · Supabase · Redis**
 
 [Repository](https://github.com/931njhthe-star/subsync-ai-tutor)
 
 </td>
-<td width="50%" valign="top">
-
-<a href="https://931njhthe-star.github.io/robotics-vision/"><img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="100%" alt="Robotics and 3D bin-picking demonstration"></a>
-
-### [Robotics & Vision Integration](https://931njhthe-star.github.io/robotics-vision/)
-
-Connected mobile robotics, a six-axis robot, 3D vision, and pneumatic gripping in an integrated bin-picking demonstration. Work covered software integration and system-level coordination.
-
-**Robot control · 3D vision · REST · TCP/IP · Modbus**
-
-[Project page](https://931njhthe-star.github.io/robotics-vision/) · [Video](https://www.youtube.com/watch?v=wLmfVy-GDSs)
-
-</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### Vehicle Detection & Traffic-Sign Recognition
+<a href="https://931njhthe-star.github.io/robotics-vision/"><img src="https://931njhthe-star.github.io/assets/robotics-system-flow-original.png" width="100%" alt="Robotics integration overview with Solomon 3D vision, Doosan robot arms, MiR AMR, and LMS"></a>
 
-Computer-vision research at Sejong University, including vehicle-detection evaluation with YOLOv3/v4 and MobileNet-SSD, and 3D-to-2D projection studies for traffic-sign recognition.
+### Robotics & 3D Bin-Picking System Integration
 
-**YOLO · MobileNet-SSD · OpenCV · Camera geometry**
+At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-axis robot, Solomon 3D vision, and pneumatic gripper control into a coordinated demonstration system. Developed software interfaces for existing device controllers and coordinated robot, vision, and gripper workflows.
 
-</td>
-<td width="50%" valign="top">
+**Python · REST · TCP/IP · Modbus · Digital I/O · 3D vision**
 
-### CareerLens — AI Resume & Job Matching
-
-Team project focused on AI architecture, database design, and a LangGraph workflow with 12 parallel branches.
-
-**LangGraph · LLM Agents · Database design**
+[Project page](https://931njhthe-star.github.io/robotics-vision/) · [Demonstration video](https://www.youtube.com/watch?v=wLmfVy-GDSs)
 
 </td>
 </tr>
@@ -146,3 +112,4 @@ Engineering Accreditation · GPA: 3.38 / 4.5
 ---
 
 <div align="center"><sub>GPU performance · Real-time vision · High-throughput systems</sub></div>
+
