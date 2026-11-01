@@ -1,3 +1,5 @@
+<div align="center">
+
 # Jihun Rho
 
 ### CUDA & GPU Performance Engineer · Computer Vision
@@ -10,6 +12,8 @@ Seoul, South Korea · Open to remote opportunities
 [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunjirho@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white)](https://931njhthe-star.github.io/#contact)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/931njhthe-star)
+
+</div>
 
 ---
 
