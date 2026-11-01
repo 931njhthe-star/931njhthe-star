@@ -1,140 +1,148 @@
 # Jihun Rho
 
-### CUDA & GPU Performance Engineer | Computer Vision Engineer
+### CUDA & GPU Performance Engineer · Computer Vision
 
-📍 Seoul, South Korea  
-🌏 Open to Remote Opportunities
-📧 hunjirho@gmail.com
+**Building high-throughput vision systems, from CUDA kernels to real-time applications.**
 
-### Professional Summary
+Seoul, South Korea · Open to remote opportunities
 
-GPU Performance Engineer with **4 years and 8 months of hands-on CUDA/C++ experience**, specializing in **GPU kernel optimization, high-performance image processing, and industrial machine vision**.
-
-Experienced in **CPU-GPU pipeline redesign, CUDA kernel and memory optimization**, and performance profiling with NVIDIA Nsight.
-
-Applied **selective GPU acceleration and multi-core CPU parallelism** to production image-processing systems, achieving **11.2× higher throughput** than a single-core CPU baseline and processing up to **2.52 million images per hour**.
-
-Bringing **7 years and 6 months of combined industry and research experience** spanning computer vision, deep learning, and robotics.
-
-Currently expanding expertise in **end-to-end AI systems** to better understand AI workloads and strengthen **GPU inference and system-level performance optimization** capabilities.
+[![Portfolio](https://img.shields.io/badge/Portfolio-76B900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://931njhthe-star.github.io/)
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunjirho@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white)](https://931njhthe-star.github.io/#contact)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/931njhthe-star)
 
 ---
 
-# Core Expertise
+## About me
 
-### CUDA & GPU Performance
-CPU-GPU Parallelism, Kernel Optimization, NVIDIA Nsight Performance Profiling.
+My work spans **GPU performance engineering, computer vision, and real-time systems**. I have **4 years 8 months of hands-on CUDA/C++ experience** optimizing industrial machine-vision workloads, alongside research experience in vision and software work integrating robotics and sensors.
 
-### Computer Vision
-Image Processing Pipelines, 2D/3D Vision
+I focus on profiling-driven optimization: identifying pipeline bottlenecks, choosing what belongs on the CPU or GPU, and tuning kernels, memory use, and execution overlap. In production, this work contributed to **11.2× throughput over a single-core CPU baseline**, **~40% over a multi-core CPU-only pipeline**, and throughput of **2.52 million images per hour**.
 
-### Software & Systems
-C/C++, Python, Windows, Linux
+Currently completing a full-time AI Orchestration program while building end-to-end vision and inference systems.
 
----
+## Featured projects
 
-# Professional Experience
+### [DriveFusion — Real-Time Camera–Radar Perception & Evaluation](https://931njhthe-star.github.io/drivefusion/)
 
-## [Enclony](https://enclony.com/) — Advanced Technology Research Institute
+A solo CARLA project that combines YOLO11n detection, vehicle tracking, radar-assisted distance estimation, and a Qt monitoring dashboard. A C++/CUDA TensorRT module runs inference; session recording and ground-truth evaluation support repeatable comparisons.
 
-### Research Engineer, CUDA & GPU Performance Optimization
+<p align="center">
+  <a href="https://931njhthe-star.github.io/drivefusion/">
+    <img src="https://931njhthe-star.github.io/assets/drivefusion.gif" width="100%" alt="DriveFusion camera-radar perception dashboard">
+  </a>
+</p>
 
-**Mar 2021 – Oct 2025**
+**Evaluation across 9 driving sessions**
 
-- Developed and optimized high-performance **CUDA/C++ machine-vision software** for industrial pharmaceutical inspection systems.
-- **CPU-GPU Pipeline Redesign:** Redesigned image-processing pipelines with **selective CUDA acceleration for compute-intensive workloads**, retaining efficient CPU processing for lighter tasks and optimizing CPU-GPU workload distribution.
-- **Performance Improvement:** Achieved **11.2× higher image-processing throughput** than a single-core CPU baseline and **~40% higher throughput** than a multi-core CPU-only implementation, reaching **2.52 million images per hour**.
-- **Multi-View Image Processing:** Processed **10 RGB images (640×480)** and **2 3D camera-derived height maps** per object for multi-view surface inspection.
+| Evaluation set | Samples | Distance MAE reduction |
+|---|---:|---:|
+| All common samples | 16,491 | **5.41%** |
+| Radar-corrected samples | 437 | **39.42%** |
 
-**Technical Skills:** C++, CUDA, CPU-GPU Pipeline Optimization, Computer Vision.
+**Tech stack:** `C++` · `CUDA` · `TensorRT` · `YOLO11n` · `Qt` · `CARLA` · `Radar fusion`
 
----
-
-## [Sejong University — Intelligent Vehicle Recognition Systems Laboratory](https://sites.google.com/view/ivpg)
-
-### Researcher, Deep Learning & Computer Vision
-**Nov 2019 – Oct 2020**
-
-- **Vehicle Detection:** Evaluated vehicle detection performance using **YOLOv3/v4 and MobileNet-SSD** on rooftop-captured video footage. Processed and curated **tens to hundreds of thousands of extracted frames**, managed JSON/text annotations, and performed detection evaluation and error analysis.
-- **Traffic Sign Recognition:** Developed a **3D-to-2D projection simulation** using camera geometry and coordinate transformations. Evaluated **LeNet and SVM recognition performance** for traffic signs rotated around different 3D axes, analyzing how rotation angles affected detection accuracy.
-
-**Technical Skills:** C++, Python, 2D/3D Computer Vision.
+[Project page](https://931njhthe-star.github.io/drivefusion/) · [Repository](https://github.com/931njhthe-star/DriveFusion)
 
 ---
 
-## [INA Oriental Motor](https://www.inaom.co.kr/main/main.do) — Technology Research Center
-### Software Engineer, Robotics & Vision Systems
+### High-Throughput CUDA Vision Pipeline
 
-**Jan 2018 – Oct 2019**
+Production machine-vision work for pharmaceutical inspection. I optimized the CPU–GPU processing pipeline through selective CUDA acceleration, workload allocation, kernel and memory tuning, and NVIDIA Nsight profiling. Proprietary algorithms and implementation details are not disclosed.
 
-- Planned and integrated an industrial robotics demonstration system combining **autonomous mobile robots, six-axis robots, 3D vision systems, and pneumatic grippers**.
-- Developed integration software using **Python, REST APIs, TCP/IP, Modbus, and Digital I/O** to connect heterogeneous devices and their existing control systems.
-- Implemented **monitoring, motion coordination, and gripper control workflows** for multi-device operation.
-- Integrated deep-learning-based **3D object recognition and random bin-picking solutions** into robotics demonstrations.
+- **11.2× throughput** versus a single-core CPU baseline
+- **~40% higher throughput** versus a multi-core CPU-only pipeline
+- **2.52M images/hour** across 12 views per inspected object
+- Selective GPU acceleration for compute-intensive operations
 
-**Technical Skills:** Python, Industrial Robot and Sensor System Integration.
-
----
-
-# AI Training & Projects
-
-## Personal Projects
-
-- 🚗 [**DriveFusion — Real-Time Automotive Vision & Radar Fusion**](https://github.com/931njhthe-star/DriveFusion)  
-  Independently designed and implemented a CARLA-based system featuring YOLO11n detection, vehicle tracking, camera–radar fusion, and distance estimation. Includes a C++/CUDA TensorRT inference pipeline built separately for Windows and Linux, a real-time Qt dashboard, session recording, and ground-truth-based evaluation.
-
-**Performance:** Reduced distance estimation MAE by **5.41% overall** and **39.42% on radar-corrected samples**.
-
-## SK Networks Family × Encore AI Campus
-
-### Full-time AI Orchestration Program
-
-**Aug 2026 – Present**
-
-- **AI Orchestration:** Developed AI applications using LLM APIs, RAG, LangGraph, AI agents, and MCP.
-- **End-to-End AI Development:** Built AI systems integrating FastAPI, databases, authentication, caching, testing, and deployment.
-- **GPU Performance Focus:** Expanding understanding of AI workloads and system architectures to strengthen GPU inference and end-to-end performance optimization capabilities.
-
-**Technical Skills:** Full-Stack Development, Multi-Agent Systems, Docker, AWS, CI/CD.
+**Tech stack:** `C++` · `CUDA` · `Nsight Systems` · `Nsight Compute` · `Computer vision`
 
 ---
 
-# Education
+### [Robotics & 3D Bin-Picking System Integration](https://931njhthe-star.github.io/robotics-vision/)
 
-### Sejong University — Seoul, South Korea
-**B.S. in Electronic Engineering | Engineering Accreditation**
+Integrated a MiR autonomous mobile robot, a Doosan six-axis robot, Solomon 3D vision, and pneumatic gripper control into a coordinated demonstration system. Built software interfaces for existing device controllers and coordinated robot, vision, and gripper workflows.
 
-- GPA: **3.38 / 4.5**
-- THE World University Rankings 2027: **Joint 281st globally**
+**Tech stack:** `Python` · `REST` · `TCP/IP` · `Modbus` · `Digital I/O` · `3D vision`
+
+[Project page](https://931njhthe-star.github.io/robotics-vision/) · [Demonstration video](https://www.youtube.com/watch?v=wLmfVy-GDSs)
+
+## More projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/931njhthe-star/subsync-ai-tutor"><img src="https://931njhthe-star.github.io/assets/subsync.gif" width="100%" alt="SubSync browser extension and AI tutor"></a>
+
+### [SubSync — AI-Powered YouTube English Tutor](https://github.com/931njhthe-star/subsync-ai-tutor)
+
+Led a five-person team building a Chrome extension MVP for learning English with synchronized subtitles, saved vocabulary, and a Gemini-powered tutor. Integrated the extension with backend APIs, authentication, storage, and caching.
+
+**Chrome Extension (MV3) · FastAPI · Gemini · Supabase · Redis**
+
+[Repository](https://github.com/931njhthe-star/subsync-ai-tutor)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://931njhthe-star.github.io/robotics-vision/"><img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="100%" alt="Robotics and 3D bin-picking demonstration"></a>
+
+### [Robotics & Vision Integration](https://931njhthe-star.github.io/robotics-vision/)
+
+Connected mobile robotics, a six-axis robot, 3D vision, and pneumatic gripping in an integrated bin-picking demonstration. Work covered software integration and system-level coordination.
+
+**Robot control · 3D vision · REST · TCP/IP · Modbus**
+
+[Project page](https://931njhthe-star.github.io/robotics-vision/) · [Video](https://www.youtube.com/watch?v=wLmfVy-GDSs)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Vehicle Detection & Traffic-Sign Recognition
+
+Computer-vision research at Sejong University, including vehicle-detection evaluation with YOLOv3/v4 and MobileNet-SSD, and 3D-to-2D projection studies for traffic-sign recognition.
+
+**YOLO · MobileNet-SSD · OpenCV · Camera geometry**
+
+</td>
+<td width="50%" valign="top">
+
+### CareerLens — AI Resume & Job Matching
+
+Team project focused on AI architecture, database design, and a LangGraph workflow with 12 parallel branches.
+
+**LangGraph · LLM Agents · Database design**
+
+</td>
+</tr>
+</table>
+
+## Technical skills
+
+| Area | Skills and tools |
+|---|---|
+| **GPU performance** | C++, CUDA kernels, memory tuning, stream overlap, occupancy, CPU–GPU pipeline optimization |
+| **Profiling** | NVIDIA Nsight Systems, NVIDIA Nsight Compute, performance analysis |
+| **Computer vision** | OpenCV, image processing, detection, tracking, calibration, camera–radar fusion |
+| **Inference** | TensorRT, YOLO, real-time evaluation |
+| **Systems** | Multithreading, Qt, CMake, Windows, Linux |
+| **Robotics & integration** | Robot control, REST, TCP/IP, Modbus, Digital I/O |
+| **AI application engineering** | Python, FastAPI, LangGraph, Docker, CI/CD |
+
+## Experience
+
+- **Enclony** · Research Engineer, CUDA & GPU Performance · Mar 2021 – Oct 2025
+- **Sejong University** · Computer Vision Researcher · Nov 2019 – Oct 2020
+- **INA Oriental Motor** · Software Engineer, Robotics & Vision Integration · Jan 2018 – Oct 2019
+
+## Education
+
+**B.S. in Electronic Engineering** · Sejong University  
+Engineering Accreditation · GPA: 3.38 / 4.5
 
 ---
 
-# Awards
-
-### Excellence Award — 2nd ICT CoC Hackathon (2020) | South Korea
-- Organized by the **National IT Industry Promotion Agency (NIPA)** and the **Seoul Metropolitan Government**.
-- Developed an **aerial imagery-based object detection system using YOLOv3** to identify unauthorized buildings and rooftop gardens.
-- **Tech Stack:** C++, YOLOv3, Deep Learning, Computer Vision, Object Detection.
-
-### Bronze Award — Sejong University Creative Design Competition (2017) | Sejong University, South Korea
-- Received the **Bronze Award** in a creative design competition held at Sejong University.
-- Developed a **digital ruler application using an optical sensor** for distance measurement.
-- **Tech Stack:** Optical Sensors, Sensor-Based Measurement, Software Development.
-
-### 4th Place — Sejong University Software Competition (2016) | Sejong University, South Korea
-- Ranked **4th** in an algorithm programming competition held at Sejong University.
-- **Focus:** Algorithm Design, Problem Solving, C Programming.
-
-
----
-
-# Certifications
-
-### Korean National Technical Qualifications
-
-- **Engineer Information Communication** — Engineer Level
-- **Engineer Radio Telecommunication Equipment** — Engineer Level
-- **Industrial Engineer Electronics** — Industrial Engineer Level
-- **Industrial Engineer Computer Maintenance Control** — Industrial Engineer Level
-
-> South Korean qualification levels: **Craftsman < Industrial Engineer < Engineer**
+<div align="center"><sub>GPU performance · Real-time vision · High-throughput systems</sub></div>
