@@ -105,7 +105,7 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 | **Robotics & integration** | Robot control, REST, TCP/IP, Modbus, Digital I/O |
 | **AI application engineering** | Python, FastAPI, LangGraph, Docker, CI/CD |
 
-[For the full overview of my work, visit my portfolio](https://931njhthe-star.github.io/).
+For the full overview of my work, visit [**931njhthe-star.github.io**](https://931njhthe-star.github.io/). &#x20;
 ---
 
 <div align="center"><sub>GPU performance · Real-time vision · High-throughput systems</sub></div>
