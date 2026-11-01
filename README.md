@@ -113,11 +113,6 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 - **Sejong University** · Computer Vision Researcher · Nov 2019 – Oct 2020
 - **INA Oriental Motor** · Software Engineer, Robotics & Vision Integration · Jan 2018 – Oct 2019
 
-## Education
-
-**B.S. in Electronic Engineering** · Sejong University  
-Engineering Accreditation · GPA: 3.38 / 4.5
-
 ---
 
 <div align="center"><sub>GPU performance · Real-time vision · High-throughput systems</sub></div>
