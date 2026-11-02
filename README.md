@@ -30,6 +30,8 @@ Currently completing a full-time AI Orchestration program while building end-to-
 ### High-Throughput CUDA Vision Pipeline
 Production machine-vision work for pharmaceutical inspection. I optimized the CPU–GPU processing pipeline through selective CUDA acceleration, workload allocation, kernel and memory tuning, and NVIDIA Nsight profiling. Proprietary algorithms and implementation details are not disclosed.
 <img width="1586" height="992" alt="image" src="https://github.com/user-attachments/assets/2b01478c-4c53-4d04-a2c2-1a7a2777189d" />
+<img width="1585" height="992" alt="image" src="https://github.com/user-attachments/assets/ec5483c6-5152-4183-8a67-5080517dd818" />
+
 For the full overview of my work, visit [**931njhthe-star.github.io**](https://931njhthe-star.github.io/). &#x20;
 
 **Tech stack:** `C++` · `CUDA` · `Nsight Systems` · `Nsight Compute` · `Computer Vision`
