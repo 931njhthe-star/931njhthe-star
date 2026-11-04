@@ -71,7 +71,7 @@ Led a five-person team building a Chrome extension MVP for learning English with
 <tr>
 <td colspan="2" valign="top">
 
-<a href="https://931njhthe-star.github.io/robotics-vision/"><img src="https://931njhthe-star.github.io/assets/robotics-system-flow-original.png" width="100%" alt="Robotics integration overview with Solomon 3D vision, Doosan robot arms, MiR AMR, and LMS"></a>
+<a href="https://931njhthe-star.github.io/robotics-vision/"><img src="https://931njhthe-star.github.io/assets/robotics-system-flow-en.png" width="100%" alt="Robotics integration overview with Solomon 3D vision, Doosan robot arms, MiR AMR, and LMS"></a>
 
 ### Robotics & 3D Bin-Picking System Integration
 
