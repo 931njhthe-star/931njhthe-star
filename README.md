@@ -86,17 +86,6 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://speakup-seven.vercel.app/"><img src="https://image.thum.io/get/width/1200/crop/650/noanimate/https://speakup-seven.vercel.app/" width="100%" alt="Speak Up Seven English academy website preview"></a>
-
-### <a href="https://speakup-seven.vercel.app/">Speak Up — English Academy Website</a>
-
-**Currently in active use by an English conversation academy.** I designed, built, and deployed the website, which presents the academy’s classes and learning programs, student testimonials, schedule, directions, and consultation links.
-
-**React · TypeScript · Vite · Tailwind CSS · Vercel**
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://github.com/931njhthe-star/CareerLens-fullstack"><img src="https://raw.githubusercontent.com/931njhthe-star/CareerLens-fullstack/main/careerlens_preview.gif" width="100%" alt="CareerLens demo preview"></a>
 
 ### [CareerLens — AI Resume & Job Matching](https://github.com/931njhthe-star/CareerLens-fullstack)
@@ -106,6 +95,17 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 **Python · LangGraph · FastAPI · PostgreSQL**
 
 [Repository](https://github.com/931njhthe-star/CareerLens-fullstack)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://speakup-seven.vercel.app/"><img src="https://image.thum.io/get/width/1200/crop/650/noanimate/https://speakup-seven.vercel.app/" width="100%" alt="Speak Up Seven English academy website preview"></a>
+
+### <a href="https://speakup-seven.vercel.app/">Speak Up — English Academy Website</a>
+
+**Currently in active use by an English conversation academy.** I designed, built, and deployed the website, which presents the academy’s classes and learning programs, student testimonials, schedule, directions, and consultation links.
+
+**React · TypeScript · Vite · Tailwind CSS · Vercel**
 
 </td>
 </tr>
