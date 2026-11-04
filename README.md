@@ -107,6 +107,8 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 
 **React · TypeScript · Vite · Tailwind CSS · Vercel**
 
+[Visit Live Website](https://speakup-seven.vercel.app/)
+
 </td>
 </tr>
 </table>
