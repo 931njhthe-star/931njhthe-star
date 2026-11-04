@@ -97,7 +97,9 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 
 ### <a href="https://speakup-seven.vercel.app/">Speak Up Seven — English Academy Website</a>
 
-<sub>A live website built for an English academy.</sub>
+Built and deployed a production website for a local English conversation academy. The site brings the academy’s learning approach, class programs, student stories, schedule, and consultation links together in one place.
+
+<sub>Live website · Front-end implementation · Responsive landing page</sub>
 
 </td>
 </tr>
