@@ -8,7 +8,7 @@
 
 Seoul, South Korea · Open to remote opportunities
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-76B900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://931njhthe-star.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-76B900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://931njhthe-star.github.io/en/)
 [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunjirho@gmail.com)
 [![English Resume](https://img.shields.io/badge/English_Resume-1f6feb?style=for-the-badge&logo=googledocs&logoColor=white)](https://931njhthe-star.github.io/assets/Jihun_Rho_Resume_English.pdf)
 [![한국어 이력서](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4_%EC%9D%B4%EB%A0%A5%EC%84%9C-d9534f?style=for-the-badge&logo=googledocs&logoColor=white)](https://931njhthe-star.github.io/assets/Jihun_Rho_Resume_Korean.pdf)
@@ -31,7 +31,7 @@ Currently completing a full-time AI Orchestration program while building end-to-
 Production machine-vision work for pharmaceutical inspection. I optimized the CPU–GPU processing pipeline through selective CUDA acceleration, workload allocation, kernel and memory tuning, and NVIDIA Nsight profiling. Proprietary algorithms and implementation details are not disclosed.
 <img width="1585" height="992" alt="image" src="https://github.com/user-attachments/assets/ec5483c6-5152-4183-8a67-5080517dd818" />
 
-For the full overview of my work, visit [**931njhthe-star.github.io**](https://931njhthe-star.github.io/). &#x20;
+For the full overview of my work, visit [**931njhthe-star.github.io**](https://931njhthe-star.github.io/en/). &#x20;
 
 **Tech stack:** `C++` · `CUDA` · `Nsight Systems` · `Nsight Compute` · `Computer Vision`
 
@@ -125,7 +125,7 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 | **Robotics & integration** | Robot control, REST, TCP/IP, Modbus, Digital I/O |
 | **AI application engineering** | Python, FastAPI, LangGraph, Docker, CI/CD |
 
-For the full overview of my work, visit [**931njhthe-star.github.io**](https://931njhthe-star.github.io/). &#x20;
+For the full overview of my work, visit [**931njhthe-star.github.io**](https://931njhthe-star.github.io/en/). &#x20;
 ---
 
 <div align="center"><sub>GPU performance · Real-time vision · High-throughput systems</sub></div>
