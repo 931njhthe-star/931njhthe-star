@@ -106,7 +106,7 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/931njhthe-star/CareerLens-fullstack"><img src="https://github.com/user-attachments/assets/de503747-586d-4a7f-b326-cc73c8ef113e" width="100%" alt="CareerLens parallel AI evaluation architecture"></a>
+<a href="https://github.com/931njhthe-star/CareerLens-fullstack"><img src="https://raw.githubusercontent.com/931njhthe-star/CareerLens-fullstack/main/careerlens_preview.gif" width="100%" alt="CareerLens demo preview"></a>
 
 ### [CareerLens — AI Resume & Job Matching](https://github.com/931njhthe-star/CareerLens-fullstack)
 
