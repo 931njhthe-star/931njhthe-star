@@ -90,6 +90,8 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 </div>
 <div align="center"><sub>Initial cable routing · Organized connections · Exhibition-day setup</sub></div>
 
+<p><sub><strong>Also built:</strong> <a href="https://speakup-seven.vercel.app/">Speak Up Seven</a> — a live website for an English academy.</sub></p>
+
 </td>
 </tr>
 </table>
