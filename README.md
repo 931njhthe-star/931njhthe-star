@@ -99,7 +99,7 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 
 ### <a href="https://speakup-seven.vercel.app/">Speak Up — English Academy Website</a>
 
-Designed, built, and deployed a live website for an English conversation academy. It presents the academy’s classes and learning programs, student testimonials, schedule, directions, and consultation links.
+**Currently in active use by an English conversation academy.** I designed, built, and deployed the website, which presents the academy’s classes and learning programs, student testimonials, schedule, directions, and consultation links.
 
 **React · TypeScript · Vite · Tailwind CSS · Vercel**
 
