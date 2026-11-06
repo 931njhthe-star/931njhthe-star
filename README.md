@@ -41,7 +41,7 @@ For the full overview of my work, visit [**931njhthe-star.github.io**](https://9
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://931njhthe-star.github.io/drivefusion/"><img src="https://931njhthe-star.github.io/assets/drivefusion.gif" width="100%" alt="DriveFusion camera-radar perception dashboard"></a>
+<a href="https://931njhthe-star.github.io/en/drivefusion/"><img src="https://931njhthe-star.github.io/assets/drivefusion.gif" width="100%" alt="DriveFusion camera-radar perception dashboard"></a>
 
 ### DriveFusion — Real-Time Camera–Radar Perception & Evaluation
 
@@ -51,7 +51,7 @@ A solo CARLA project combining YOLO11n detection, vehicle tracking, radar-assist
 
 **C++ · CUDA · TensorRT · YOLO11n · Qt · CARLA · Radar fusion**
 
-[Project page](https://931njhthe-star.github.io/drivefusion/) · [Repository](https://github.com/931njhthe-star/DriveFusion)
+[Project page](https://931njhthe-star.github.io/en/drivefusion/) · [Repository](https://github.com/931njhthe-star/DriveFusion)
 
 </td>
 <td width="50%" valign="top">
@@ -71,7 +71,7 @@ Led a five-person team building a Chrome extension MVP for learning English with
 <tr>
 <td colspan="2" valign="top">
 
-<a href="https://931njhthe-star.github.io/robotics-vision/"><img src="https://931njhthe-star.github.io/assets/robotics-system-flow-en.png" width="100%" alt="Robotics integration overview with Solomon 3D vision, Doosan robot arms, MiR AMR, and LMS"></a>
+<a href="https://931njhthe-star.github.io/en/robotics-vision/"><img src="https://931njhthe-star.github.io/assets/robotics-system-flow-en.png" width="100%" alt="Robotics integration overview with Solomon 3D vision, Doosan robot arms, MiR AMR, and LMS"></a>
 
 ### Robotics & 3D Bin-Picking System Integration
 
@@ -79,7 +79,7 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 
 **Python · REST · TCP/IP · Modbus · Digital I/O · 3D vision**
 
-[Project page](https://931njhthe-star.github.io/robotics-vision/)
+[Project page](https://931njhthe-star.github.io/en/robotics-vision/)
 
 </td>
 </tr>
