@@ -52,9 +52,7 @@ A solo CARLA project combining YOLO11n detection, vehicle tracking, radar-assist
 **C++ · CUDA · TensorRT · YOLO11n · Qt · CARLA · Radar fusion**
 
 [Project page](https://931njhthe-star.github.io/en/drivefusion/) · [Repository](https://github.com/931njhthe-star/DriveFusion)
-
 <br>
-
 #### DriveFusion Incident Review · LLM-Assisted Collision Analysis
 
 [![Animated CARLA collision review with vehicle reconstruction and sensor timeline](https://raw.githubusercontent.com/931njhthe-star/931njhthe-star.github.io/main/en/drivefusion/accident-review/collision-video.gif)](https://931njhthe-star.github.io/en/drivefusion/accident-review/)
