@@ -59,7 +59,7 @@ A solo CARLA project combining YOLO11n detection, vehicle tracking, radar-assist
 
 A local dashboard pairs selected collision frames with aligned vehicle and sensor records, then caches an evidence-based LLM summary with the session.
 
-[Project page](https://931njhthe-star.github.io/en/drivefusion/)
+[Project page]([https://931njhthe-star.github.io/en/drivefusion](https://931njhthe-star.github.io/en/drivefusion/accident-review/)/)
 
 </td>
 <td width="50%" valign="top">
