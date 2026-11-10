@@ -118,9 +118,9 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 
 <a href="https://github.com/poohoot-ai/2026_aio2_moa"><img src="https://raw.githubusercontent.com/931njhthe-star/931njhthe-star.github.io/main/assets/moa-banner-en.png" width="100%" alt="MOA Multi-Agent Order Assistant banner"></a>
 
-### MOA — Multi-Agent AI System & Auto-Healing
+### MOA — Multi-Agent Coffee Order Assistant
 
-A team-developed AI service designed for resilient operation. Worked on automated failure detection and recovery, including gateway failover, interpreter fallback, container restart, and checkpoint-based task resumption.
+A team-built AI service that interprets coffee orders from group conversations, handles changes and cancellations, and consolidates them into a final order. I worked on auto-healing features including failure detection, service fallback, and recovery.
 
 **Python · FastAPI · Docker · HAProxy · PostgreSQL · AI Agents**
 
