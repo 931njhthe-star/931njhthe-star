@@ -105,7 +105,7 @@ Led a five-person team building a Chrome extension MVP for learning English with
 
 <a href="https://github.com/931njhthe-star/CareerLens-fullstack"><img src="https://raw.githubusercontent.com/931njhthe-star/CareerLens-fullstack/main/careerlens_preview.gif" width="100%" alt="CareerLens demo preview"></a>
 
-### [CareerLens — AI Resume & Job Matching](https://github.com/931njhthe-star/CareerLens-fullstack)
+### CareerLens — AI Resume & Job Matching
 
 An AI-powered resume and job matching platform using LangGraph parallel evaluation. Designed the AI architecture, database integration, and deployment workflow.
 
