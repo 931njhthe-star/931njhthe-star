@@ -52,7 +52,10 @@ A solo CARLA project combining YOLO11n detection, vehicle tracking, radar-assist
 **C++ · CUDA · TensorRT · YOLO11n · Qt · CARLA · Radar fusion**
 
 [Project page](https://931njhthe-star.github.io/en/drivefusion/) · [Repository](https://github.com/931njhthe-star/DriveFusion)
-<br>
+
+</td>
+<td width="50%" valign="top">
+
 ### DriveFusion Incident Review · LLM-Assisted Collision Analysis
 
 [![Animated CARLA collision review with vehicle reconstruction and sensor timeline](https://raw.githubusercontent.com/931njhthe-star/931njhthe-star.github.io/main/en/drivefusion/accident-review/collision-video.gif)](https://931njhthe-star.github.io/en/drivefusion/accident-review/)
@@ -62,22 +65,9 @@ A local dashboard pairs selected collision frames with aligned vehicle and senso
 [Project page](https://931njhthe-star.github.io/en/drivefusion/accident-review/)
 
 </td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/931njhthe-star/subsync-ai-tutor"><img src="https://931njhthe-star.github.io/assets/subsync.gif" width="100%" alt="SubSync browser extension and AI tutor"></a>
-
-### SubSync — AI-Powered YouTube English Tutor
-
-Led a five-person team building a Chrome extension MVP for learning English with synchronized subtitles, saved vocabulary, and an AI tutor. Integrated the extension with backend APIs, authentication, storage, and caching. The backend test suite passed all 79 tests.
-
-**Chrome Extension (MV3) · FastAPI · AI agent · Supabase · Redis**
-
-[Repository](https://github.com/931njhthe-star/subsync-ai-tutor)
-
-</td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="3" valign="top">
 
 <a href="https://931njhthe-star.github.io/en/robotics-vision/"><img src="https://931njhthe-star.github.io/assets/robotics-system-flow-en.png" width="100%" alt="Robotics integration overview with Solomon 3D vision, Doosan robot arms, MiR AMR, and LMS"></a>
 
@@ -92,7 +82,20 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+<a href="https://github.com/931njhthe-star/subsync-ai-tutor"><img src="https://931njhthe-star.github.io/assets/subsync.gif" width="100%" alt="SubSync browser extension and AI tutor"></a>
+
+### SubSync — AI-Powered YouTube English Tutor
+
+Led a five-person team building a Chrome extension MVP for learning English with synchronized subtitles, saved vocabulary, and an AI tutor. Integrated the extension with backend APIs, authentication, storage, and caching. The backend test suite passed all 79 tests.
+
+**Chrome Extension (MV3) · FastAPI · AI agent · Supabase · Redis**
+
+[Repository](https://github.com/931njhthe-star/subsync-ai-tutor)
+
+</td>
+<td width="33%" valign="top">
 
 <a href="https://github.com/931njhthe-star/CareerLens-fullstack"><img src="https://raw.githubusercontent.com/931njhthe-star/CareerLens-fullstack/main/careerlens_preview.gif" width="100%" alt="CareerLens demo preview"></a>
 
@@ -105,7 +108,20 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 [Repository](https://github.com/931njhthe-star/CareerLens-fullstack)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### MOA — Multi-Agent AI System & Auto-Healing
+
+A team-developed AI service designed for resilient operation. Worked on automated failure detection and recovery, including gateway failover, interpreter fallback, container restart, and checkpoint-based task resumption.
+
+**Python · FastAPI · Docker · HAProxy · PostgreSQL · AI Agents**
+
+[Repository](https://github.com/poohoot-ai/2026_aio2_moa)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 <a href="https://speakup-seven.vercel.app/"><img src="https://image.thum.io/get/width/1200/crop/650/noanimate/https://speakup-seven.vercel.app/" width="100%" alt="Speak Up Seven English academy website preview"></a>
 
@@ -118,6 +134,8 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 [Visit Live Website](https://speakup-seven.vercel.app/)
 
 </td>
+<td width="33%"></td>
+<td width="33%"></td>
 </tr>
 </table>
 
