@@ -116,7 +116,7 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/poohoot-ai/2026_aio2_moa"><img src="https://raw.githubusercontent.com/931njhthe-star/931njhthe-star/main/assets/moa-auto-healing.svg" width="100%" alt="MOA multi-agent auto-healing architecture"></a>
+<a href="https://github.com/poohoot-ai/2026_aio2_moa"><img src="https://raw.githubusercontent.com/931njhthe-star/931njhthe-star.github.io/main/assets/moa-banner-en.png" width="100%" alt="MOA Multi-Agent Order Assistant banner"></a>
 
 ### MOA — Multi-Agent AI System & Auto-Healing
 
