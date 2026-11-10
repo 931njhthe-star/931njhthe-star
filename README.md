@@ -86,9 +86,10 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 </tr>
 </table>
 
-<table>
+<table width="100%" style="table-layout: fixed;">
+<colgroup><col width="33.33%"><col width="33.33%"><col width="33.34%"></colgroup>
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <a href="https://github.com/931njhthe-star/subsync-ai-tutor"><img src="https://931njhthe-star.github.io/assets/subsync.gif" width="100%" alt="SubSync browser extension and AI tutor"></a>
 
@@ -101,7 +102,7 @@ Led a five-person team building a Chrome extension MVP for learning English with
 [Repository](https://github.com/931njhthe-star/subsync-ai-tutor)
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <a href="https://github.com/931njhthe-star/CareerLens-fullstack"><img src="https://raw.githubusercontent.com/931njhthe-star/CareerLens-fullstack/main/careerlens_preview.gif" width="100%" alt="CareerLens demo preview"></a>
 
@@ -114,7 +115,7 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 [Repository](https://github.com/931njhthe-star/CareerLens-fullstack)
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <a href="https://931njhthe-star.github.io/en/moa/"><img src="https://raw.githubusercontent.com/931njhthe-star/931njhthe-star.github.io/main/assets/moa-banner-en.png" width="100%" alt="MOA Multi-Agent Order Assistant banner"></a>
 
@@ -129,7 +130,7 @@ A team-built AI service that interprets coffee orders from group conversations, 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <a href="https://speakup-seven.vercel.app/"><img src="https://image.thum.io/get/width/1200/crop/650/noanimate/https://speakup-seven.vercel.app/" width="100%" alt="Speak Up Seven English academy website preview"></a>
 
@@ -142,8 +143,8 @@ A team-built AI service that interprets coffee orders from group conversations, 
 [Visit Live Website](https://speakup-seven.vercel.app/)
 
 </td>
-<td width="33%"></td>
-<td width="33%"></td>
+<td width="33.33%" valign="top"></td>
+<td width="33.33%" valign="top"></td>
 </tr>
 </table>
 
