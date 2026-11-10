@@ -124,7 +124,7 @@ A team-built AI service that interprets coffee orders from group conversations, 
 
 **Python · FastAPI · Docker · HAProxy · PostgreSQL · AI Agents**
 
-[Project page](https://931njhthe-star.github.io/en/moa/) · [Repository](https://github.com/931njhthe-star/moa)
+[Project page](https://931njhthe-star.github.io/en/moa/) · [Repository](https://github.com/931njhthe-star/moa/tree/main)
 
 </td>
 </tr>
