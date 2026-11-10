@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<rect width="960" height="540" rx="24" fill="#0d1117"/>
+<rect x="32" y="32" width="896" height="476" rx="18" fill="#151d2a" stroke="#344356" stroke-width="2"/>
+<text x="64" y="95" fill="#f3f6fc" font-size="42" font-family="Arial, sans-serif" font-weight="bold">MOA</text>
+<text x="64" y="136" fill="#a5b4c8" font-size="24" font-family="Arial, sans-serif">Multi-Agent AI · Auto-Healing Architecture</text>
+<rect x="75" y="206" width="220" height="100" rx="13" fill="#253a50" stroke="#69b4f7" stroke-width="3"/>
+<text x="185" y="251" text-anchor="middle" fill="#eaf3ff" font-size="27" font-family="Arial, sans-serif" font-weight="bold">HAProxy</text>
+<text x="185" y="282" text-anchor="middle" fill="#bad1e6" font-size="17" font-family="Arial, sans-serif">Traffic gateway</text>
+<rect x="373" y="180" width="235" height="74" rx="12" fill="#20463d" stroke="#50d3a5" stroke-width="3"/>
+<text x="490" y="226" text-anchor="middle" fill="#edfff6" font-size="25" font-family="Arial, sans-serif" font-weight="bold">App A</text>
+<rect x="373" y="281" width="235" height="74" rx="12" fill="#20463d" stroke="#50d3a5" stroke-width="3"/>
+<text x="490" y="327" text-anchor="middle" fill="#edfff6" font-size="25" font-family="Arial, sans-serif" font-weight="bold">App B</text>
+<rect x="685" y="206" width="200" height="100" rx="13" fill="#453352" stroke="#cba5ff" stroke-width="3"/>
+<text x="785" y="249" text-anchor="middle" fill="#f9eeff" font-size="24" font-family="Arial, sans-serif" font-weight="bold">PostgreSQL</text>
+<text x="785" y="278" text-anchor="middle" fill="#dfc8f6" font-size="17" font-family="Arial, sans-serif">Shared state</text>
+<path d="M295 256 H338 V217 H372 M338 256 V318 H372" fill="none" stroke="#7fa8cd" stroke-width="5" stroke-linecap="round"/>
+<path d="M608 217 H648 V256 H685 M608 318 H648 V256" fill="none" stroke="#7fa8cd" stroke-width="5" stroke-linecap="round"/>
+<rect x="250" y="410" width="460" height="64" rx="14" fill="#4a3424" stroke="#ffbc70" stroke-width="3"/>
+<text x="480" y="451" text-anchor="middle" fill="#ffead4" font-size="25" font-family="Arial, sans-serif" font-weight="bold">Healing Service · Detect / Recover</text>
+<path d="M480 355 V410" stroke="#ffbc70" stroke-width="4" stroke-dasharray="9 8"/>
+</svg>
