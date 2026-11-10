@@ -56,9 +56,9 @@ A solo CARLA project combining YOLO11n detection, vehicle tracking, radar-assist
 </td>
 <td width="50%" valign="top">
 
-### DriveFusion Incident Review · LLM-Assisted Collision Analysis
-
 [![Animated CARLA collision review with vehicle reconstruction and sensor timeline](https://raw.githubusercontent.com/931njhthe-star/931njhthe-star.github.io/main/en/drivefusion/accident-review/collision-video.gif)](https://931njhthe-star.github.io/en/drivefusion/accident-review/)
+
+### DriveFusion Incident Review · LLM-Assisted Collision Analysis
 
 A local dashboard pairs selected collision frames with aligned vehicle and sensor records, then caches an evidence-based LLM summary with the session.
 
