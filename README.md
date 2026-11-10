@@ -66,8 +66,11 @@ A local dashboard pairs selected collision frames with aligned vehicle and senso
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="3" valign="top">
+<td width="100%" valign="top">
 
 <a href="https://931njhthe-star.github.io/en/robotics-vision/"><img src="https://931njhthe-star.github.io/assets/robotics-system-flow-en.png" width="100%" alt="Robotics integration overview with Solomon 3D vision, Doosan robot arms, MiR AMR, and LMS"></a>
 
@@ -81,6 +84,9 @@ At INA Oriental Motor, integrated a MiR autonomous mobile robot, a Doosan six-ax
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="33%" valign="top">
 
@@ -109,6 +115,8 @@ An AI-powered resume and job matching platform using LangGraph parallel evaluati
 
 </td>
 <td width="33%" valign="top">
+
+<a href="https://github.com/poohoot-ai/2026_aio2_moa"><img src="https://raw.githubusercontent.com/931njhthe-star/931njhthe-star/main/assets/moa-auto-healing.svg" width="100%" alt="MOA multi-agent auto-healing architecture"></a>
 
 ### MOA — Multi-Agent AI System & Auto-Healing
 
